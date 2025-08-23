@@ -1,0 +1,117 @@
+,Unnamed: 0,text,embeddings,distances
+0,0,"A  hedgehog  is a spiny mammal of the subfamily Erinaceinae, in the eulipotyphlan family Erinaceidae. There are 17 species of hedgehog in five genera found throughout parts of Europe, Asia, and Africa, and in New Zealand by introduction. There are no hedgehogs native to Australia and no living species native to the Americas. However, the extinct genus Amphechinus was once present in North America.","[ 0.00173882  0.00553422 -0.02343979 ... -0.02628833  0.02005475
+ -0.02103833]",0.15543034992581106
+1,1,"Hedgehogs share distant ancestry with shrews (family Soricidae), with gymnures possibly being the intermediate link, and they have changed little over the last 15 million years. Like many of the first mammals, they have adapted to a nocturnal way of life. Their spiny protection resembles that of porcupines, which are rodents, and echidnas, a type of monotreme.","[ 0.02269172 -0.0044761  -0.0128026  ... -0.00312364  0.00602909
+ -0.01185925]",0.15296599777734698
+2,2,"The name hedgehog came into use around the year 1450, derived from the Middle English heyghoge, from heyg, hegge 'hedge', because it frequents hedgerows, and hoge, hogge 'hog', from its piglike snout. Other names that are used are urchin and hedgepig.","[ 1.10273771e-02 -7.04752514e-03  4.78581944e-03 ... -1.22831864e-02
+  2.35292371e-02  6.34054668e-05]",0.18400737846155624
+3,3,"Hedgehogs are easily recognized by their spines, which are hollow hairs made stiff with keratin. Their spines are not poisonous or barbed and, unlike the quills of a porcupine, do not easily detach from their bodies. However, the immature animal's spines normally fall out as they are replaced with adult spines. This is called ""quilling"". Spines can also shed when the animal is diseased or under extreme stress. Hedgehogs are usually brown, with pale tips to the spines, though blonde hedgehogs are found on the Channel Island of Alderney.","[ 0.00517697  0.01242862 -0.00961901 ... -0.01093277  0.00684842
+ -0.00441603]",0.15675201690028617
+4,4,"Hedgehogs roll into a tight spiny ball when threatened, tucking in the furry face, feet, and belly. The hedgehog's back contains two large muscles that direct the quills. Some light-weight desert hedgehog species with fewer spines are more likely to flee or attack, ramming an intruder with the spines, rolling up only as a last resort.","[-0.01275446  0.0059821   0.00601125 ... -0.01984748  0.0168289
+ -0.00582016]",0.1652358417537273
+5,5,"Hedgehogs are primarily nocturnal, with some species also active during the day. Hedgehogs sleep for a large portion of the day under bushes, grasses, rocks, or most commonly in dens dug underground. All wild hedgehogs can hibernate, though the duration depends on  temperature, species, and abundance of food.","[ 0.0232083   0.01066772  0.00103529 ... -0.00537499  0.02551141
+ -0.00909224]",0.14270339999928694
+6,6,"Hedgehogs are fairly vocal, with a variety of grunts, snuffles and/or squeals.","[ 0.00398729 -0.00100399 -0.01208618 ... -0.01575792  0.03817089
+ -0.02911901]",0.13351163014420975
+7,7,"They occasionally perform a ritual called anointing. When the animal encounters a new scent, it will lick and bite the source, then form a scented froth in its mouth and paste it on its spines with its tongue. Some experts believe this might serve to camouflage the hedgehog with the local scent, and might also lead to infection of predators poked by the spines. Anointing is sometimes also called anting after a similar behavior in birds.","[ 0.01327911  0.01336398 -0.00265713 ... -0.00371149  0.02493913
+ -0.00086259]",0.16362184954344072
+8,8,"Like opossums, mice, and moles, hedgehogs have some natural immunity against some snake venom through the protein erinacin in their muscles, though in such small amounts that a viper bite may still be fatal. In addition, hedgehogs are one of four known mammalian groups with natural protection against another snake venom, α-neurotoxin. Developing independently, pigs, honey badgers, mongooses, and hedgehogs all have mutations in the nicotinic acetylcholine receptor that prevent the binding of the snake venom α-neurotoxin.","[-0.0101289  -0.0034683  -0.0138599  ... -0.02704144  0.01284236
+  0.00372768]",0.16319341690991573
+9,9,"The sense of smell has been little studied in the hedgehog, as the olfactory part of the mammal brain is obscured inside the neopallium. Tests have suggested that hedgehogs share the same olfactory electrical activity as cats.","[ 0.01496064 -0.00112909  0.00321122 ...  0.01564921  0.00736139
+ -0.00684809]",0.183643835471495
+10,10,"Although traditionally classified in the abandoned order Insectivora, hedgehogs are omnivorous. They feed on insects, snails, frogs and toads, snakes, bird eggs, carrion, mushrooms, grass roots, berries, and melons. Afghan hedgehogs devour berries in early spring after hibernation. Hedgehogs have been observed eating cat food left outdoors for pets.","[ 0.02063604 -0.01000321 -0.03245744 ... -0.0176293   0.01341471
+  0.00887247]",0.09595895294609502
+11,11,"When a hedgehog hibernates, its normal 30–35 °C (86–95 °F) body temperature  decreases to 2–5 °C (36–41 °F).","[ 0.0181503   0.00082029 -0.00443681 ...  0.0051831   0.01852817
+  0.00799822]",0.1733389305396118
+12,12,"Hedgehog gestation lasts 35–58 days, depending on species. The average litter is three to four newborns for larger species and five to six for smaller ones. As with many animals, it is not unusual for an adult male hedgehog to kill newborn males.","[ 0.03125893  0.00784622 -0.00958422 ... -0.00526755  0.03765681
+ -0.01353882]",0.1906760548875398
+13,13,"Hedgehogs have a relatively long lifespan for their size. In captivity, lack of predators and controlled diet contribute to a lifespan of eight to ten years depending on size. In the wild, larger species live four to seven years (some recorded up to 16 years), and smaller species live two to four years (four to seven in captivity). This compares to a mouse at two years and a large rat at three to five years.","[ 0.01745288 -0.00931666  0.00035124 ... -0.01172833  0.02353282
+ -0.00703827]",0.16463231722344052
+14,14,"Newborn hoglets are blind, with their quills covered by a protective membrane which dries and shrinks over several hours, and falls off after cleaning, allowing the quills to emerge.","[-0.0062033  -0.01307276 -0.01352127 ... -0.00538542  0.01103468
+  0.02373148]",0.22048294983054695
+15,15,"The various species have many predators: while forest hedgehogs are prey primarily to birds (especially owls) and ferrets, smaller species like the long-eared hedgehog are prey to foxes, wolves, and mongooses. Hedgehog bones have been found in the pellets of the Eurasian eagle owl.","[ 0.01613636  0.00929608 -0.0104597  ... -0.0096561   0.00989397
+  0.00389587]",0.13010485736012956
+16,16,"In Britain, a predator in intensively farmed areas is the European badger with populations lower in areas with many badgers. Some hedgehog rescue societies will not release hedgehogs into known badger territories. Badgers also compete with hedgehogs for food.","[ 0.01995459 -0.01790895 -0.00769364 ...  0.00810534 -0.01307791
+  0.00310062]",0.1677280040256348
+17,17,"The most common pet species of hedgehog are hybrids of the white-bellied hedgehog or four-toed hedgehog (Atelerix albiventris, sometimes known as the African pygmy hedgehog) and the smaller North African hedgehog (A. algirus, pygmy hedgehog). Other species kept as pets are the long-eared hedgehog (Hemiechinus auritus) and the Indian long-eared hedgehog (H. collaris).","[ 0.01272457 -0.00166669 -0.02302603 ... -0.01671823  0.01033992
+ -0.00270998]",0.16955626964201953
+18,18,"As of 2019, it is illegal to own a hedgehog as a pet in the US states of Hawaii, Georgia, Pennsylvania, and California, as well as in New York City, Washington, D.C. and some Canadian municipalities. Breeding licenses are required. No such restrictions exist in most European countries with the exception of Scandinavia. In Italy, it is illegal to keep wild hedgehogs as pets.","[ 0.00822098 -0.00290602 -0.00648205 ...  0.00509526  0.02177719
+ -0.00043434]",0.19010503964688386
+19,19,"In areas where hedgehogs have been introduced, such as New Zealand and the islands of Scotland, the hedgehog has become a pest, lacking natural predators. In New Zealand it has decimated native species including insects, snails, lizards and ground-nesting birds, particularly shore birds.","[ 0.00349407 -0.01518995  0.01016283 ... -0.00523152 -0.00165282
+ -0.0077866 ]",0.1515435137265445
+20,20,"Eradication can be troublesome. Attempts to eliminate hedgehogs from bird colonies on the Scottish islands of North Uist and Benbecula in the Outer Hebrides were met with international protest. Eradication began in 2003 with 690 hedgehogs killed, though animal welfare groups attempted rescues. By 2007, legal injunctions prohibited the killing, and in 2008, the elimination process was changed to trapping and releasing on the mainland.","[ 0.0012167  -0.00145889 -0.0114551  ... -0.00050239 -0.01143546
+ -0.01450543]",0.1854182621531537
+21,21,"In 2022, it was reported that the hedgehog population in rural Britain was declining rapidly, down by 30–75% since 2000.","[-0.00144557  0.00037003 -0.01000671 ...  0.01158341  0.01809122
+  0.0083986 ]",0.1867751978645995
+22,22,"Hedgehogs suffer many diseases common to mammals, including cancer, fatty liver disease, and cardiovascular disease.","[ 0.01006738  0.0024561  -0.01219174 ... -0.00733872  0.0084414
+ -0.00580618]",0.15053719620281836
+23,23,"Cancer is very common in hedgehogs. The most common is squamous cell carcinoma, which spreads quickly from bone to the organs, unlike in humans. Surgery to remove the bone tumors is impractical.","[ 0.00781913  0.00320104  0.00199274 ... -0.00867316  0.00288947
+ -0.00069825]",0.16305391473477315
+24,24,"Fatty liver and heart disease are believed to be caused by an unhealthy diet and obesity. Hedgehogs will eagerly eat foods high in fat and sugar, despite a metabolism adapted for low-fat, protein-rich insects.","[ 0.00940217 -0.00736213 -0.00488449 ... -0.00553769  0.01187337
+ -0.00813439]",0.14679881621724633
+25,25,"Hedgehogs are also highly susceptible to pneumonia, with difficulty breathing and nasal discharge, caused by the bacterium Bordetella bronchiseptica.","[ 0.01059994  0.00300363 -0.01739862 ...  0.00065665  0.00227453
+ -0.00315942]",0.17567708986370256
+26,26,"Hedgehogs uncommonly transmit a fungal ringworm or dermatophytosis skin infection to human handlers and other hedgehogs, caused by Trichophyton erinacei, a distinct mating group among the Arthroderma benhamiae fungi.","[ 0.01467947 -0.01179737  0.01815079 ... -0.01090072  0.00917787
+ -0.01411586]",0.17752613840699927
+27,27,"Hedgehogs can suffer from balloon syndrome, a rare condition in which gas is trapped under the skin from injury or infection, causing the animal to inflate. The condition is unique to hedgehogs because their skin is baggy enough to curl up. In 2017, the BBC reported a case of a male hedgehog ""almost twice its natural size, literally blown up like a beach ball with incredibly taut skin"". At Stapeley's Wildlife Hospital, vet Bev Panto, said, ""I have seen three or four of these cases and they are very strange every time and quite shocking ... When you first see them they appear to be very big hedgehogs but when you pick them up they feel so light because they are mostly air"". The British Hedgehog Preservation Society advises:","[ 0.00804743  0.00976087  0.02500221 ... -0.001991   -0.00422586
+ -0.01604351]",0.1871871854029281
+28,28,There is no single cause for this condition. The air can be removed by incising or aspirating through the skin over the back. Antibiotic cover should be given. This may be associated with lung/chest wall damage or a small external wound acting like a valve or a clostridium type infection.,"[ 0.00488419  0.01129988  0.03041712 ... -0.00055559  0.01181926
+ -0.01126659]",0.31162739998782474
+29,29,"As with most small mammals living around humans, many are run over as they attempt to cross roadways. In Ireland, hedgehogs are one of the most common mammalian road fatalities. Between April 2008 and November 2010 on two stretches of road measuring 227 km and 32.5 km, there were 133 recorded hedgehog fatalities. Of another 135 hedgehog carcasses collected from throughout Ireland, there were significantly more males than females collected, with peaks in male deaths occurring in May and June. Female deaths outnumbered males only in August, with further peaks in female deaths observed in June and July. It is suggested that these peaks are related to the breeding season (adults) and dispersal/exploration following independence.","[ 0.00045927  0.00652937 -0.00918545 ... -0.01281466  0.00798427
+ -0.00120198]",0.17130911434989726
+30,30,"Hedgehogs are a food source in many cultures. They were eaten in Ancient Egypt and some recipes of the Late Middle Ages call for hedgehog meat. They are traded throughout Eurasia and Africa for traditional medicine and witchcraft. In the Middle East and especially among Bedouins, hedgehog meat is considered medicine against  rheumatism and arthritis. Hedgehogs are also said to cure a variety of disorders from tuberculosis to impotence. In Morocco, inhaling the smoke of the burnt skin or bristles supposedly remedies fever, impotence, and urinary illnesses; the blood is sold as a cure for ringworm, cracked skin and warts, and the flesh is eaten as a remedy for witchcraft. Romani people still eat hedgehogs, boiled or roasted, and also use the blood and the fat as a medicine.","[ 0.01497972  0.01070624 -0.01369059 ... -0.00305363  0.00632964
+  0.00524677]",0.1504310643543626
+31,31,"In 1981, British publican Philip Lewis developed a line of Hedgehog Flavoured Crisps, whose taste was apparently based on the flavourings used by Romani to bake hedgehogs. As they did not contain any actual hedgehog product, the Office of Fair Trading ordered him to change the name to Hedgehog Flavour Crisps.","[ 0.01451704  0.00312411 -0.03505014 ...  0.00991997  0.01425547
+ -0.00164052]",0.16283983327290585
+32,32,Subfamily Erinaceinae (hedgehogs),"[ 0.00245675  0.00260575 -0.00777999 ... -0.03034261  0.00899136
+ -0.03148272]",0.15868014402049568
+33,33,Genus Atelerix,"[-0.00241098  0.00584256 -0.00525027 ... -0.01336494 -0.00200441
+ -0.02675666]",0.26421872029300264
+34,34,"Four-toed hedgehog, Atelerix albiventris","[ 0.01694862  0.01175448 -0.0107105  ... -0.01763172  0.01988724
+ -0.01840504]",0.16195388713088832
+35,35,"North African hedgehog, Atelerix algirus","[ 0.01062936  0.01107766 -0.00461948 ... -0.01958245  0.02101182
+ -0.01062936]",0.17322501641270993
+36,36,"Southern African hedgehog, Atelerix frontalis","[ 0.01063675  0.01016358 -0.00537671 ... -0.01293782  0.02345142
+ -0.0306463 ]",0.16705030918339325
+37,37,"Somali hedgehog, Atelerix sclateri","[ 0.00259291 -0.00060937 -0.00576165 ... -0.02907983  0.02991742
+ -0.01238707]",0.16780561114166292
+38,38,Genus Erinaceus,"[ 0.00287111 -0.00555636 -0.00345968 ... -0.02449492  0.00520093
+ -0.03258164]",0.24488342594601042
+39,39,"Amur hedgehog, Erinaceus amurensis","[ 0.00908617 -0.00641283 -0.020311   ... -0.02920735  0.01826092
+ -0.02657514]",0.15416599794104924
+40,40,"Southern white-breasted hedgehog, Erinaceus concolor","[ 0.01105463 -0.00456993 -0.01741168 ... -0.02793018  0.00363488
+ -0.02675578]",0.1708397521791487
+41,41,"European hedgehog, Erinaceus europaeus","[ 0.01139074 -0.01136534 -0.00212386 ... -0.02035603  0.01446383
+ -0.04200733]",0.16242873644648803
+42,42,"Northern white-breasted hedgehog, Erinaceus roumanicus","[ 0.00518763 -0.00587139 -0.01982597 ... -0.01497221  0.0175275
+ -0.03187051]",0.179730178191836
+43,43,Genus Hemiechinus,"[ 0.00051452  0.00482088  0.01097212 ... -0.03722354  0.00539056
+ -0.01258567]",0.2338576411676493
+44,44,"Long-eared hedgehog, Hemiechinus auritus","[ 0.00675623  0.00039793  0.00012135 ... -0.02025582  0.02221191
+ -0.02656163]",0.15565378646389028
+45,45,"Indian long-eared hedgehog, Hemiechinus collaris","[ 0.01388689  0.00475249 -0.0017001  ... -0.02873599  0.02738371
+ -0.03216871]",0.16587374482068573
+46,46,Genus Mesechinus,"[-0.00769199  0.01178996 -0.0118828  ... -0.03254507 -0.00509926
+ -0.03235941]",0.2671927009469547
+47,47,"Daurian hedgehog, Mesechinus dauuricus","[ 0.00584091  0.00797674 -0.02506976 ... -0.02580823  0.01150994
+ -0.03368948]",0.16724173594242775
+48,48,"Hugh's hedgehog, Mesechinus hughi","[-0.00721101  0.00888488 -0.00684823 ... -0.03075339  0.00995412
+ -0.03004056]",0.15348493425218013
+49,49,"Small-toothed forest hedgehog, Mesechinus miodon","[ 0.00677569  0.01798113 -0.00633337 ... -0.01366933  0.00276204
+ -0.04925152]",0.15578651022597978
+50,50,"Gaoligong forest hedgehog, Mesechinus wangi","[-0.00108712  0.01700041 -0.01114996 ... -0.02551374  0.01137296
+ -0.02353298]",0.18076462948880745
+51,51,Genus Paraechinus,"[ 0.00653147  0.00235417  0.00405553 ... -0.01296146 -0.01070877
+ -0.0317407 ]",0.27035488267086916
+52,52,"Desert hedgehog, Paraechinus aethiopicus","[ 0.00842723  0.00362612 -0.00753947 ... -0.03209006  0.01221981
+ -0.035615  ]",0.1643008130197402
+53,53,"Brandt's hedgehog, Paraechinus hypomelas","[ 0.00756278 -0.00287033 -0.01361039 ... -0.01566109 -0.00229071
+ -0.03074746]",0.17656309766079137
+54,54,"Indian hedgehog, Paraechinus micropus ","[-0.00159578 -0.00212717 -0.02007605 ... -0.03118332  0.01613601
+ -0.02776171]",0.14734434994883416
+55,55,"Bare-bellied hedgehog, Paraechinus nudiventris","[ 0.00707676 -0.00653441  0.00575028 ... -0.02092317  0.0018329
+ -0.03191405]",0.15752135436053416
+56,56,"In worldwide folklore, hedgehogs are associated with intelligence and wisdom (Asia, Europe), and magic (Africa).","[ 0.01417198 -0.00755671  0.00650856 ... -0.01704654  0.00617592
+ -0.00863624]",0.1639756447731423
+57,57,The hedgehog routinely tops ‘Britain’s favourite animal’ polls. ,"[ 0.01262596  0.0069288  -0.01741991 ... -0.00415602  0.01114167
+ -0.02515087]",0.1627651790252248
