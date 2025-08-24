@@ -1,0 +1,499 @@
+,Unnamed: 0,text,embeddings,distances
+40,40,"31 January – NASA reports the discovery of a super-Earth called TOI-715 b, located in the habitable zone of a red dwarf star about 137 light-years away.","[ 0.04351171 -0.00268928 -0.02094208 ... -0.00652294 -0.00991157
+ -0.03026238]",0.14969919143029697
+172,172,"12 August – An Earth-sized, ultra-short period exoplanet called TOI-6255b is found to be undergoing extreme tidal distortion, caused by the close proximity of its parent star. This has resulted in an egg-shaped planet, likely to be destroyed within 400 million years.","[-0.00406904 -0.00470274 -0.00985908 ...  0.01435503 -0.00541649
+ -0.04010337]",0.19901872177315927
+158,158,"15 July – Scientists announce the discovery of a lunar cave, approximately 250 miles (400 km) from Apollo 11's landing site.","[ 0.01730242  0.01178133  0.01496287 ...  0.01428157  0.01731528
+ -0.02207152]",0.20609340824044842
+206,206,"11 October – Astronomers observe the ""inside-out"" growth of NGC 1549 by using the James Webb Space Telescope. Researchers assume that it could solve the mystery of how these complex structures are being formed from gas clouds.","[ 0.01648301  0.00389292  0.0077     ...  0.01748678 -0.00517075
+ -0.03262263]",0.20780860955383096
+212,212,"17 October – Scientists observe a black hole corona using NASA's Imaging X-ray Polarimetry Explorer, and determine its shape for the first time.","[ 0.00690626  0.00806278  0.00601587 ...  0.02744105  0.01382566
+ -0.01888543]",0.21124099162235122
+125,125,15 May – Astronomers report an overview of preliminary analytical studies on returned samples of asteroid 101955 Bennu by the OSIRIS-REx mission.,"[-0.004989   -0.00555879 -0.00851377 ...  0.01144886  0.00401836
+ -0.03731481]",0.21194624517129235
+205,205,"10 October – Scientists use a high-level machine learning model ""SHBoost"", to process data and estimate precise stellar properties for 217 million stars observed by the Gaia mission.","[-0.00975765  0.00422239 -0.00339672 ... -0.00330611 -0.01405868
+ -0.01693059]",0.21929759481610334
+196,196,"1 October – The European Southern Observatory (ESO) reports the discovery of a sub-Earth-mass planet orbiting Barnard's star, the closest single star to the Sun at six light-years away.","[ 0.02018378 -0.003002   -0.01294015 ...  0.01975654 -0.00983296
+ -0.03889165]",0.21957352134890018
+198,198,2 October – Scientists detect a new jet of carbon monoxide (CO) and previously unseen jets of carbon dioxide (CO2) gas on Centaur 29P by using the James Webb Space Telescope's Near-Infrared Spectrograph.,"[ 0.00229083  0.00220398 -0.01160163 ...  0.02579888 -0.0045325
+ -0.00457511]",0.21986003554679245
+217,217,23 October – Astronomers using NASA/ESA's James Webb Space Telescope detect the first brown dwarf candidates outside the Milky Way in NGC 602.,"[ 0.00998638 -0.00802076 -0.00758542 ...  0.01040193 -0.01340311
+  0.00268128]",0.2211278561183586
+207,207,12 October – The long-period comet C/2023 A3 (Tsuchinshan–ATLAS) makes its closest approach to Earth.,"[ 0.00439549  0.01016844 -0.0056365  ...  0.04199922  0.0097526
+ -0.02572972]",0.22128723022248242
+231,231,"21 November – The first close-up image of a star outside the Milky Way is reported, using the European Southern Observatory's Very Large Telescope Interferometer. The star WOH G64 is located in the Large Magellanic Cloud, about 160,000 light years away, and is shown to be surrounded by a torus-shaped cloud.","[ 0.00688584 -0.00352214 -0.00741399 ...  0.02626256 -0.01124312
+ -0.02828276]",0.22156453552129796
+126,126,"15 May – SPECULOOS-3 b, an exoplanet nearly identical in size to Earth, is discovered orbiting an ultracool dwarf star as small as Jupiter and located 55 light-years from Earth.","[ 0.02635649 -0.00513331  0.0003361  ...  0.00070934 -0.00982426
+ -0.03256268]",0.22215931665468458
+34,34,"24 January – The discovery of 85 exoplanet candidates based on data from the TESS observatory is reported. All have orbital periods of between 20 and 700 days, with temperatures similar to those of Solar System planets.","[ 0.01497358  0.00350377 -0.00313623 ...  0.01650202 -0.00626921
+ -0.04085351]",0.22385428633703486
+135,135,"30 May – NASA reports that the James Webb Space Telescope has discovered JADES-GS-z14-0, the most distant known galaxy, which existed only 290 million years after the Big Bang. Its redshift of 14.32 exceeds the previous record of 13.2, set by JADES-GS-z13-0.","[-0.00506828 -0.00891179 -0.01222072 ...  0.00429011 -0.00887796
+ -0.00729454]",0.22571503196289877
+156,156,"11 July – Using the Hubble Space Telescope, scientists resolve the 3D velocity dispersion profile of a dwarf galaxy for the first time, helping to uncover its dark matter distribution.","[-0.00234139  0.00871941 -0.01702584 ...  0.01524066 -0.00096337
+ -0.01200335]",0.22669868385903746
+86,86,28 March – LHS 3844 b is confirmed as the first tidally locked super-Earth exoplanet.,"[ 0.02424228  0.00182474 -0.02024789 ...  0.02263927 -0.00513424
+ -0.02459705]",0.22672397634550134
+56,56,"12 February – The first detection of water molecules on the surface of asteroids is announced, following spectral analysis of 7 Iris and 20 Massalia, two large main-belt objects.","[-0.00331076  0.00198144 -0.01415266 ... -0.01072151 -0.00645431
+  0.01495527]",0.22695583585386148
+238,238,"17 December – Zhúlóng (""Torch Dragon""), discovered by the James Webb Space Telescope, is reported as being the most distant known spiral galaxy ever found, seen as it appeared just 1.1 billion years after the Big Bang.","[-0.01337564 -0.01009016 -0.02205011 ...  0.02175628 -0.0020601
+ -0.01569284]",0.22724198062144219
+28,28,"18 January – A potential candidate for the first known radio pulsar-black hole binary is reported by astronomers. The heavier of the two lies in the ""mass gap"" between neutron stars and black holes. The pair are located in the globular cluster NGC 1851.","[-1.02274641e-02 -7.12089706e-03  4.49510850e-03 ... -3.98197008e-05
+ -1.18177303e-03 -7.15451781e-03]",0.22783091724902838
+188,188,"18 September – Scientists at CERN in Switzerland, using the ATLAS particle detector, observed quantum entanglement between quarks for the first time, and was also the highest-energy observation of entanglement so far.","[-0.01110877  0.00609307  0.00874381 ...  0.0096241   0.00826424
+ -0.0124095 ]",0.22810656289540854
+175,175,"16 August – The Planetary Habitability Laboratory publishes a report concluding that the Wow! signal was likely been caused by a rare astrophysical event, the sudden brightening of a cold molecular cloud triggered by a stellar emission.","[-3.75633338e-03 -9.87685053e-04  1.14535214e-02 ...  2.91404158e-05
+  6.35281671e-03 -2.93653011e-02]",0.22838207910109398
+59,59,"19 February – Astronomers announce the most luminous object ever discovered, quasar QSO J0529-4351, located 12 billion light-years away in the constellation Pictor.","[ 0.00773465  0.00895866 -0.00496437 ...  0.00916049 -0.00053184
+ -0.02494882]",0.22892426730753812
+32,32,"21 January – Biologists report the discovery of ""obelisks"", a new class of viroid-like elements, and ""oblins"", their related group of proteins, in the human microbiome.","[-0.0168863  -0.01431635 -0.01312557 ... -0.01497566  0.00259854
+ -0.00936483]",0.2290333219337214
+234,234,"9 December – Astronomers report using the infrared capabilities of the James Webb Space Telescope to find 100 of the smallest asteroids ever detected in the main belt, some measuring just 10 metres in diameter.","[ 0.00926987  0.00118044 -0.00061318 ... -0.00146178 -0.00675205
+ -0.01258245]",0.22921045308742471
+202,202,"9 October – Pham Tiep, a professor of mathematics, solves two long-standing problems, the Height Zero Conjecture and the Deligne-Lusztig theory. Mathematicians believe that it may lead to advances in science and technology.","[ 0.01390376 -0.0157332   0.01290773 ...  0.00614896 -0.00257308
+ -0.03114116]",0.22998821667082392
+216,216,"23 October – Physicists observe a ""black hole triple"" for the first time.","[-0.0080313   0.00645454  0.00413694 ...  0.0193538   0.00257002
+ -0.01266651]",0.23005192666037366
+76,76,"12 March – Geologists identify a 2.4-million-year cycle in deep-sea sedimentary data, caused by an orbital interaction between Earth and Mars.","[-0.00171485 -0.01112082  0.01568049 ...  0.00977545 -0.01370552
+ -0.02974389]",0.2311153468596997
+37,37,"26 January – Astronomers report the detection of water vapor in the atmosphere of GJ 9827 d, an exoplanet about twice the size of Earth.","[ 0.01672438  0.01045596 -0.01551322 ... -0.00994057 -0.00544058
+ -0.00075537]",0.23127972794645113
+132,132,"23 May – Astronomers using TESS report the discovery of Gliese 12 b, a Venus-sized exoplanet located 40 light-years away, with an equilibrium temperature of 315 K (42 °C; 107 °F). This makes it the nearest, transiting, temperate, Earth-sized world located to date.","[ 0.01343192 -0.00688665 -0.01247343 ... -0.00189563 -0.01449544
+ -0.04096538]",0.23140010412602086
+3,3,"5 January – Scientists report that newborn galaxies in the very early universe were ""banana""-shaped, much to the surprise of researchers.","[ 0.00761897  0.00789294  0.00242822 ...  0.02596189  0.00015411
+ -0.01728619]",0.23175970952224512
+210,210,"15 October – Physicists and Researchers from the Institute of Nuclear Physics of the Polish Academy of Sciences achieve the first coherent picture of atomic nuclei made from only quarks and gluons, fusing this picture with the model of nuclei made from protons and neutrons.","[-0.01195761  0.00389442  0.00283884 ...  0.01722377 -0.0007921
+ -0.02035537]",0.2318008863077644
+159,159,"15 July – China announces a plan to visit the asteroid 2015 XF261 in 2029. Similar to NASA's Double Asteroid Redirection Test (DART), a probe will impact the body at a speed of 10 kilometres per second, and the resulting changes to its orbit will be studied. This will occur when the asteroid is within seven million kilometres of Earth.","[ 0.00297892 -0.01554398 -0.01203099 ...  0.00240247 -0.01647988
+ -0.01513707]",0.23187394940574169
+44,44,2 February – Scientists report a possible way of solving the three-body problem; a notable problem of particular importance to physics and classical mechanics.,"[ 0.00266784  0.0154954  -0.01748881 ...  0.01518975  0.00434895
+ -0.02353547]",0.23191228170532352
+148,148,"24 June – The discovery of three Super-Earth candidates around HD 48948, a K-type dwarf star located 55 light-years away, is reported. One planet lies within the habitable zone.","[ 0.03086529  0.00384511 -0.00019268 ...  0.0007891  -0.01078457
+ -0.0327193 ]",0.23235872903223642
+152,152,2 July – Two new satellite galaxies of the Milky Way are discovered – Sextans II and Virgo III.,"[-0.00098325  0.01305607 -0.01245348 ...  0.01724827 -0.00889627
+ -0.03454837]",0.23294063628679906
+117,117,"8 May – Atmospheric gases surrounding 55 Cancri e, a hot rocky exoplanet 41 light-years from Earth, are detected by researchers using the James Webb Space Telescope. NASA reports this as ""the best evidence to date for the existence of any rocky planet atmosphere outside our solar system.""","[ 0.00942799  0.00656133  0.00022494 ...  0.00779178 -0.00338458
+ -0.02069012]",0.232971531591032
+131,131,"23 May – New images from the Euclid space telescope are published, including a view of the Messier 78 star nursery.","[ 0.01904799  0.02435068 -0.00764786 ...  0.00788238 -0.00076014
+ -0.04249969]",0.23331784989965776
+190,190,"19 September – A recently discovered near-Earth object called 2024 PT5 is calculated to become a ""mini-moon"" with a temporary orbit around Earth from September 29 until November 25. It will return in the year 2055.","[ 0.00264    -0.01263769  0.0105402  ...  0.01795395  0.00091518
+ -0.03567046]",0.2345576174044589
+121,121,"9 May – A study in Physical Review Letters concludes that the black hole in VFTS 243 likely formed instantaneously, with energy mainly expelled via neutrinos. This means it would have skipped the supernova stage entirely.","[-0.00576389 -0.01947181 -0.00544534 ...  0.01360505  0.01383069
+ -0.01487928]",0.2352440824017601
+136,136,"31 May – Biologists report that Tmesipteris oblanceolata, a fern ally plant, was found to contain the largest known genome.","[-0.00035095  0.00830798 -0.00840649 ...  0.00121664 -0.00785482
+ -0.02349878]",0.23771631125176074
+53,53,7 February – Saturn's moon Mimas is reported to have a subsurface ocean which formed recently (<25 Mya).,"[ 0.01450158  0.00316085 -0.00057906 ...  0.01572304  0.00027755
+ -0.02962688]",0.23789955190422718
+105,105,25 April – The first meta-analysis of 665 trials of conservation action such as invasive species control measuring biodiversity is published.,"[-0.00825561 -0.00189704  0.00337936 ... -0.0034312  -0.01229918
+ -0.01622611]",0.2383217656277643
+161,161,29 July – Scientists publish research on the simulation of gravitational waves from a failing warp drive.,"[ 0.00070856  0.01739284 -0.01349932 ...  0.02349582  0.02081482
+ -0.02880394]",0.23927850264671835
+130,130,20 May – The first measurements of an exoplanet's core mass are obtained by the James Webb Space Telescope. This reveals a surprisingly low amount of methane and a super-sized core within the super-Neptune WASP-107b.,"[ 0.01166432  0.00939497 -0.00963977 ...  0.00537234 -0.03355725
+ -0.02408289]",0.2410668070538503
+160,160,"22 July – A study indicates polymetallic nodules produce oxygen without light on the abyssal seafloor, with relevance i.a. to potential deep sea mining.","[ 0.00127326 -0.01546702  0.00382235 ...  0.0036823   0.00726212
+ -0.00839619]",0.2415371460464708
+64,64,"22 February – American company Intuitive Machines' Nova-C lander, named Odysseus, becomes the first commercial vehicle to land on the Moon in the IM-1 mission. The lander includes a Lunar Library that contains a version of the English Wikipedia, artworks, selections from the Internet Archive, portions of the Project Gutenberg, and more. It is projected to reside on the Moon in a readable state for billions of years.","[ 0.00824336 -0.02240469 -0.01396586 ...  0.00446207  0.00637631
+ -0.00612017]",0.24268058200678033
+102,102,"16 April – Scientists at the Riken institute demonstrate ""advanced dual-chirped optical parametric amplification"", which provides a 50-fold increase in the energy of single-cycle laser pulses. This new technique may advance the development of attosecond lasers.","[-0.0221964   0.01610641  0.00390307 ... -0.02330488  0.00246571
+ -0.01066415]",0.24281209117675895
+66,66,"23 February – Three new moons of the Solar System are discovered, one around Uranus and two around Neptune, bringing their total known satellites to 28 and 16, respectively.","[ 0.0073079   0.01337218  0.00229494 ...  0.01087851  0.00082374
+ -0.01180162]",0.2430777013380283
+50,50,6 February – Biologists report a new species of jellyfish named Santjordia pagesi.,"[-0.00091086  0.02604879  0.0090503  ... -0.022911    0.00989958
+ -0.01738747]",0.2431367254466611
+224,224,14 November – The first direct image of what the shape of a photon would look like is created.,"[-0.01237392  0.00547308 -0.01156803 ...  0.01520406 -0.00853483
+ -0.02086433]",0.2442127539541259
+7,7,"9 January – Researchers have discovered a new phase of matter, named a ""light-matter hybrid"", which may reshape understanding of how light interacts with matter.","[ 0.00215373  0.00476427 -0.00013732 ... -0.00787503 -0.01127211
+ -0.02594129]",0.24429629471067316
+246,246,27 December – Category:Science timelines,"[-0.00841469 -0.00314286 -0.01155923 ...  0.01045257 -0.02538577
+ -0.02801747]",0.24468407500176448
+218,218,28 October – A study of the Uranian moon Miranda finds that it may contain a deep ocean of water below its surface.,"[ 0.00627795 -0.02073307  0.00592515 ...  0.00893553  0.00360718
+ -0.00477441]",0.24487856160396637
+180,180,"4 September – The ESA/JAXA BepiColombo mission performs the closest ever flyby of a planet, as it speeds past Mercury at a distance of just 165 km (103 mi).","[ 0.0088087  -0.00020084 -0.01278176 ... -0.00404168 -0.01539562
+ -0.03711677]",0.2450184120517519
+107,107,"29 April – Timothy A. Coleman, with the University of Alabama in Huntsville, Richard L. Thompson with the NOAA Storm Prediction Center, and Dr. Gregory S. Forbes, a retired meteorologist from The Weather Channel publish an article to the Journal of Applied Meteorology and Climatology stating, ""it is apparent that the perceived shift in tornado activity from the traditional tornado alley in the Great Plains to the eastern U.S. is indeed real"".","[-0.02338238 -0.01815369 -0.00624575 ...  0.01536594  0.0068093
+ -0.02071468]",0.24504146458715748
+209,209,"14 October – NASA launches the Europa Clipper from Kennedy Space Center, which will study the Jovian moon Europa while orbiting Jupiter.","[ 0.00686333 -0.01009541  0.00411736 ...  0.01801464  0.01287036
+ -0.01563243]",0.24512073854373473
+239,239,20 December – A study published in Optica reports the first demonstration of quantum teleportation over fibers carrying conventional telecommunications traffic.,"[ 0.00108784  0.00132912  0.00681226 ...  0.0019004   0.00599307
+ -0.01164121]",0.2451848027994269
+186,186,"12 September – A study suggests Earth had planetary rings during the Ordovician period, formed from the breakup of an asteroid, from which material deorbited during the ~40 million years long Ordovician meteor event ~466 million years ago, resulting in an otherwise unlikely crater distribution.","[ 0.00688991 -0.01194162  0.00420536 ...  0.02930524 -0.02032588
+ -0.02758607]",0.24565769839239204
+39,39,29 January – A robotic sensor able to read braille with 87.5% accuracy and at twice the speed of a human is demonstrated.,"[-0.0108636   0.01368601 -0.02292539 ... -0.01778648 -0.00628052
+ -0.01738708]",0.24585763489182666
+151,151,"12 June – Hazard research is published: a study finds toxic metals including lead and arsenic in tampons (22 June), and a study indicates ocean water intrusion causing Antarctic ice-sheet grounding zones melting is a further tipping point in the climate system (25 June).","[-0.01117532 -0.01135088 -0.01266761 ...  0.01172226 -0.00355179
+ -0.02437637]",0.2459089843960135
+27,27,"18 January – NASA reports the end of the Ingenuity helicopter's operation, after 72 successful flights on Mars, due to a broken rotor blade.","[-0.00802159 -0.01090627 -0.01539784 ...  0.01743712  0.01835351
+ -0.01216468]",0.24605940419311556
+214,214,17 October – Scientists build the world's smallest quantum computer using a single photon.,"[ 0.00330414  0.01927088  0.00599824 ...  0.00530576  0.02226505
+ -0.03405709]",0.24614631815694787
+95,95,5 April – A numerical toolkit designed for modelling warp drive spacetimes is introduced in Classical and Quantum Gravity.,"[-1.03464210e-02  5.92692336e-03 -8.39361921e-03 ...  1.24636684e-02
+ -2.85854130e-05 -3.57122831e-02]",0.24622992931808385
+75,75,"6 March – The first creation of induced pluripotent stem cells for the Asian elephant is reported by Colossal Biosciences, a key step towards de-extinction of the woolly mammoth.","[-0.03684644 -0.0061912  -0.00237318 ...  0.0168934   0.00923776
+ -0.01027726]",0.24624339865881217
+243,243,"27 December – Carbon in outer space is shown to travel on a circumgalactic medium, resembling a series of giant conveyor belts, which can extend beyond our galaxy and up to 400,000 light-years in length.","[ 0.01390817 -0.00329473 -0.01253428 ...  0.01399933 -0.02006788
+ -0.02724335]",0.24652458009253697
+70,70,"28 February – Promising innovations relating to global challenges are reported: LAION releases a first version of BUD-E, a fully open source voice assistant (8 Feb), Minesto's Dragon 12 underwater tidal kite turbines are demonstrated successfully, connected to the Faroe Island's power grid (11 Feb), rice grains as scaffolds containing cultured animal cells are demonstrated (14 Feb), an automatic waste sorting system (ZenRobotics 4.0) that can distinguish between over 500 waste categories is released (15 Feb), researchers describe an AI ecosystem interface of foundation models connected to many APIs as specialized subtask-solvers (16 Feb), precision fermentation-derived beta-lactoglobulin is released as a substitute for whey protein amid growth of a nascent animal-free dairy industry (19 Feb), researchers describe an approach for an optical disk with petabit capacity (21 Feb).","[-0.01356788 -0.02185975 -0.01327556 ... -0.01020264 -0.00847012
+ -0.0153004 ]",0.24667688698018064
+87,87,27 March – Promising innovations relating to global challenges are reported: researchers demonstrate simultaneous radiative cooling and solar power generation from the same area (13 Mar).,"[-0.01072977 -0.00871793  0.01393818 ...  0.00460551 -0.00998026
+ -0.0338987 ]",0.24669146438532197
+51,51,"7 February – Reported science studies suggest that cosmic dust particles may have spread, in a process termed panspermia, life to Earth and elsewhere in the Universe.","[ 0.01781495  0.00410341 -0.00869338 ...  0.0043175   0.00502789
+ -0.02223949]",0.2470362321394487
+134,134,24 May – Researchers from the Chinese Academy of Sciences report tuning of the Casimir effect using magnetic fields.,"[-0.00946334  0.00841554  0.0142978  ...  0.00769933  0.0226006
+ -0.02848949]",0.24715590520221986
+101,101,"15 April – The world's first commercial-scale factory producing sustainable high-protein food from air, microbes and solar energy, Solein, launches.","[ 0.00274144 -0.01912111 -0.0118522  ... -0.00099644 -0.00217838
+ -0.00378548]",0.24794311100458455
+113,113,"3 May – China launches its Chang'e 6 probe, a robotic sample-return mission to the far side of the Moon.","[ 0.01766277 -0.01529826 -0.00730673 ...  0.02443329  0.01259135
+ -0.01236524]",0.24816196962445425
+149,149,25 June – China's Chang'e 6 lunar exploration mission successfully returns to Earth after taking rock and soil samples from the far side of the Moon. The orbiter proceeded on a mission to carry out observations at Sun-Earth Lagrange point L2 after dropping the sample off to Earth.,"[ 0.02828413 -0.00329175  0.00835788 ...  0.00929317  0.0141686
+ -0.01721989]",0.24847907459077379
+92,92,"3 April – NASA selects three companies – Intuitive Machines, Lunar Outpost and Venturi Astrolab – to develop its Lunar Terrain Vehicle, for use in crewed Artemis missions from 2030 onwards.","[ 0.00388354 -0.01435265 -0.00961319 ...  0.00030104  0.00350425
+ -0.01245284]",0.2484812994972473
+62,62,21 February – Researchers use artificial intelligence to forecast plasma instabilities in fusion reactors up to 300 milliseconds in advance.,"[-2.11954601e-02  1.07833592e-03 -5.95362904e-03 ...  1.97441783e-03
+  1.18918597e-05  2.47899117e-03]",0.2488066452554304
+36,36,25 January – The Laser Interferometer Space Antenna (LISA) is given the go-ahead by the European Space Agency (ESA). It will launch in 2035.,"[ 0.00194417  0.0023864  -0.00329215 ...  0.00496279  0.01426926
+ -0.01094108]",0.24881324408053196
+192,192,23 September – Researchers demonstrate an asteroid deflection method using an X-ray pulse using a miniaturized mock asteroid for up to ~4 km diameter asteroids for which DART-like impacts are thought to be insufficient.,"[-0.0149802   0.01129012  0.00183817 ...  0.01003261 -0.01175739
+ -0.02066993]",0.2490514922517173
+140,140,4 June – The China National Space Administration's Chang'e 6 spacecraft lifts off from the surface of the far side of the Moon carrying samples of lunar soil and rocks back to Earth.,"[ 0.02779293 -0.00892786  0.00680497 ...  0.01591517  0.01416997
+ -0.01523792]",0.24916190335399413
+73,73,"4 March – Astronomers report that the surface of Europa, a moon of the planet Jupiter, may have much less oxygen than previously inferred, suggesting that the moon has a less hospitable environment for the existence of lifeforms than may have been considered earlier.","[ 0.02051166 -0.01467712  0.0026612  ...  0.01352318  0.00282327
+ -0.00614896]",0.24931570642247347
+189,189,"18 September – The largest known pair of astrophysical jets is discovered within the radio galaxy Porphyrion, extending 23 million light-years from end to end. This surpasses Alcyoneus, the previous record holder at 16 million light-years.","[-0.01143524 -0.00629636 -0.01026444 ...  0.00266756 -0.00717779
+ -0.02616999]",0.2497370145303357
+11,11,"10 January – Scientists report the extinction of Gigantopithecus blacki, the largest primate to ever inhabit the Earth, that lived between 2 million and 350,000 years ago, was largely due to the inability of the ape to adapt to a diet better suited to a significantly changed environment.","[-0.00269094 -0.01998528  0.01385475 ...  0.01323784 -0.01188835
+ -0.02531897]",0.24988972526589126
+99,99,"12 April – Scientists describe how tardigrades are protecting themselves from large radiation exposure and damage, which is quickly repaired, using the Dsup protein.","[ 0.00236624  0.00839167 -0.00263959 ... -0.00599692 -0.01518684
+ -0.00755317]",0.24990004566186186
+110,110,"29 April – Hazard research is published: a study assesses the global extent of PFAS contamination of surface waters and groundwaters, finding many samples exceed PFAS drinking water guidance values and a ""need to better understand the use, fate and impacts of anthropogenic chemicals"" (8 April), a study estimates how much inorganic carbon soils store globally and projects that they would emit 23 billion tons over the next 30 years in a business-as-usual scenario (11 April), a study of satellite data suggests because of city subsidence and sea-level rise, by 2120, 22 to 26% of China's coastal lands will be below sea level, hosting 9 to 11% of the coastal population (18 April), a study suggests vitamin D deficiency may be a determinant of cancer immunity and immunotherapy success (25 April), and researchers report H5N1 bird flu was found in raw milk (29 April).","[ 0.01483191 -0.00316407 -0.00469475 ... -0.02077276 -0.02298206
+ -0.00486651]",0.2500980589177274
+248,248,27 December – List of years in science,"[ 0.00179792  0.00340587  0.00132554 ... -0.00659124 -0.00434214
+ -0.03191476]",0.25050223855846765
+13,13,"11 January – Scientists report the discovery of Tyrannosaurus mcraeensis, an older species of Tyrannosaurus that lived 5-7 million years before Tyrannosaurus rex, and which may be fundamentally important to the evolution of the species.","[-0.01500258 -0.0263404  -0.00508993 ...  0.00771761 -0.00743766
+ -0.01602056]",0.2505186535065521
+23,23,12 January – An AI-based study shows for the first time that fingerprints from different fingers of the same person share strong detectable similarities.,"[-0.00580537  0.01024516 -0.00323913 ...  0.00824627  0.00217207
+ -0.0009978 ]",0.2508000233178057
+201,201,8 October – Researchers at REMspace achieve the first communication between two individuals in lucid dreams using specially designed equipments.,"[-0.00715532  0.00333115  0.01623083 ...  0.01076866  0.00444045
+ -0.01848836]",0.2509388283041213
+49,49,6 February – Scientists report a new species of mussel named Vadumodiolus teredinicola.,"[-0.00397565  0.00875498  0.01363643 ... -0.00144022  0.01029649
+ -0.002612  ]",0.25096887459637496
+129,129,"17 May – The world's smallest quantum light detector on a silicon chip is demonstrated, 50 times smaller than their previous version.","[-0.00188076  0.02332278 -0.00532497 ... -0.01798128 -0.00854111
+ -0.01192582]",0.2512104102222745
+94,94,"4 April – The Dark Energy Spectroscopic Instrument (DESI) project releases multiple papers which report unprecedented measurements of dark energy, find indications that dark energy which is expanding the Universe is evolving over time, and release the most detailed largest 3D cosmic map to date.","[-0.01085248  0.00376144 -0.01362164 ...  0.00213456 -0.00146617
+ -0.01058875]",0.25140562245985665
+244,244,27 December – 2024 in spaceflight,"[ 0.007628   -0.01591359 -0.02310759 ...  0.01876752  0.0081738
+ -0.0163476 ]",0.2515464647576373
+141,141,"5 June – Astronomers identify ASKAP J1935+2148, the slowest-spinning neutron star ever recorded, which completes a rotation just once every 54 minutes.","[-0.00634888  0.01333788 -0.00228449 ...  0.01651232  0.0131158
+ -0.03516707]",0.2516592683073712
+65,65,"23 February – Researchers report studies that, for the first time, measured gravity at microscopic levels.","[-0.00013279  0.00589454  0.00416632 ...  0.00181779 -0.00565239
+ -0.0032624 ]",0.2516746416513469
+84,84,"27 March – The Event Horizon Telescope team confirms that strong magnetic fields are spiralling at the edge of the Milky Way’s central black hole, Sagittarius A*. A new image released by the team, similar to M87*, suggests that strong magnetic fields may be common to all black holes.","[-0.00481426 -0.01163916 -0.00601202 ...  0.01401478  0.0037824
+ -0.01382897]",0.2519721161564875
+46,46,5 February – The proposed name Zoozve for Venus' quasi-moon 2002 VE is approved and announced by the International Astronomical Union's Working Group Small Bodies Nomenclature (WGSBN).,"[-0.01017567 -0.00446778 -0.00075161 ...  0.01182469 -0.00399854
+ -0.02662566]",0.25305219355435005
+108,108,29 April – Physicists outline how a subluminal warp drive that does not require exotic negative energy may be possible.,"[ 0.00241343  0.00598662  0.0007924  ...  0.00964713  0.00355837
+ -0.01375902]",0.253321143502667
+24,24,"13 January – NASA fully opens the recovered container with samples from the Bennu asteroid, after three months of failed attempts.","[-0.01115337 -0.00468401 -0.01763944 ...  0.00640583  0.0051922
+ -0.02207939]",0.25337914922600957
+12,12,"11 January – Biologists report the discovery of the oldest known skin, fossilized about 289 million years ago, and possibly the skin from an ancient reptile.","[ 0.01574521  0.00351714  0.01583345 ...  0.01457283 -0.01534181
+ -0.02252737]",0.25366821649637805
+193,193,"24 September – Researchers at ETH Zurich demonstrate an image-based AI model able to solve Google's reCAPTCHA v2, one of the world's most powerful tools for determining whether a user is human in order to deter bot attacks and spam.","[-0.01583955 -0.00733945 -0.008623   ... -0.00921015 -0.005933
+ -0.00165223]",0.254219164423905
+154,154,"5 July – The first mouse model with a complete, functional human immune system is demonstrated.","[-0.01310607  0.00431035 -0.01365053 ... -0.0182396   0.01249678
+ -0.0122764 ]",0.2542681490032618
+169,169,"7 August – Scientists in Australia publish a new 400-year temperature reconstruction for the Coral Sea, showing that recent ocean heat has led to mass bleaching on the Great Barrier Reef.","[-0.01538629 -0.00642299 -0.00390893 ...  0.0018199  -0.00475898
+ -0.02515369]",0.2543174524089865
+153,153,2 July – The fifth busy beaver is proven.,"[-0.01669818  0.00686306 -0.02224602 ...  0.01100003  0.01777768
+ -0.02701497]",0.2553206398648479
+211,211,16 October – Researchers at the University of Birmingham Medical School encounter a human cadaver with three penises.,"[-0.00793979  0.00437339  0.01755864 ... -0.00581817  0.01710308
+ -0.02975468]",0.2561052482197932
+25,25,16 January – The first successful cloning of a rhesus monkey is reported by scientists in China.,"[-0.01336294 -0.00157244 -0.00531216 ... -0.00693397  0.00673974
+ -0.01437293]",0.2561806565790097
+203,203,9 October – Astronomers confirm that Jupiter's Great Red Spot is wobbling and fluctuating in size after observing its time-lapse video made from the images captured by the Hubble Space Telescope between December 2023 to March 2024.,"[-0.0092256  -0.01059383  0.00234459 ...  0.0107001   0.00765147
+ -0.02480085]",0.2563487779882492
+77,77,"13 March – The Artificial Intelligence Act, the world's first comprehensive legal and regulatory framework for artificial intelligence, is passed by the European Union.","[-0.00089178 -0.01988314 -0.00772661 ... -0.00611368 -0.00874395
+ -0.00944578]",0.25647437148415164
+15,15,"11 January – A graphene-based implant on the surface of mouse brains, in combination with a two-photon microscope, is shown to capture high-resolution information on neural activity at depths of 250 micrometers.","[-0.02737659  0.02371381  0.01711542 ... -0.01650944 -0.01624012
+ -0.0182331 ]",0.2571172130918429
+114,114,6 May – A new theory states that Venus may have lost its water so quickly due to HCO+ dissociative recombination.,"[-0.01851463  0.0066844   0.01674333 ...  0.00200241 -0.00244362
+ -0.00070585]",0.2572182546561784
+80,80,"19 March – Scientists demonstrate a wireless network of 78 tiny sensors able to gather data from the brain, with potential to be scaled up to thousands of such devices.","[-0.01772181  0.01463749  0.02906586 ... -0.00378026 -0.00578638
+ -0.00583866]",0.25758509814764274
+116,116,"8 May – Google introduces AlphaFold 3, a new AI model for accurately predicting the structure of proteins, DNA, RNA, ligands and more, and how they interact.","[-0.01558063 -0.0057812  -0.01616606 ... -0.01155574 -0.00996575
+ -0.00755082]",0.2576343280236427
+241,241,"24 December – The Parker Solar Probe breaks the previous record set in 2018 for the closest artificial object to the Sun by 6.1 million kilometers (3.8 million miles), becoming the closest and first man-made object to approach and ""touch"" the Sun.","[ 9.02907705e-05 -9.99047142e-03 -3.16135469e-03 ...  9.89869516e-03
+ -2.04267111e-02 -2.33242102e-02]",0.25770556168836445
+139,139,2 June – China successfully lands Chang'e 6 on the lunar far side. The robotic probe is set to begin sample collection before returning its 2 kg (4.4 lb) cargo on 4 June.,"[ 0.01449485 -0.01108236 -0.0028366  ...  0.0219799   0.01639582
+ -0.01287111]",0.25853414671452546
+138,138,"23 May – Hazard research is published: researchers report gas stoves disperse nitrogen dioxide – associated with respiratory conditions such as asthma – at unsafe levels also outside kitchens for hours (3 May), a preprint reports large amounts of microplastic in brains with concentrations being much larger in samples from 2024 compared to 2016 (6 May), an experimental study finds GPT-4-based large language model-powered conversational search increases selective exposure compared to conventional Web search (11 May), a study indicates fish oil omega-3 supplements, widely taken due to associations of high omega-3 levels and good health or cognition, might be a substantial risk factor for atrial fibrillation and stroke except for those who took these already having atrial fibrillation (21 May), and researchers report continued transmission of bird flu within dairy cattle and show that their raw milk can infect mice (24 May).","[-0.00611788  0.01581065 -0.00437941 ... -0.00320236 -0.00803125
+ -0.03139743]",0.2589756850098346
+228,228,19 November – Starship flight test 6 is launched.,"[ 0.00290514 -0.01280909 -0.00757048 ...  0.00923701  0.00272266
+ -0.02514018]",0.2601031716737897
+5,5,"9 January – Scientists report studies that seem to support the hypothesis that life may have begun in a shallow lake rather than otherwise – perhaps somewhat like a ""warm little pond"" originally proposed by Charles Darwin.","[ 0.02952791 -0.01315474 -0.00321525 ... -0.00083654 -0.00117738
+ -0.00793116]",0.2601666883230631
+29,29,"18 January – Two insect-like robots, a mini-bug and a water strider, are reported as being the smallest, lightest, and fastest fully-functional micro-robots ever created.","[-0.01107092  0.00417203 -0.00835714 ... -0.01993159 -0.01276459
+ -0.015001  ]",0.2602797494673159
+41,41,"29 January – Promising innovations relating to global challenges are reported: a self-powered solar panel cleaning system using an electrodynamic screen, removing contaminants through high-voltage electric fields, is demonstrated (4 Jan), an atmospheric water generator (WaterCube) for humidity levels above 40% is released (9 Jan).","[ 0.00202516  0.00442069  0.00148574 ... -0.01024812 -0.00183997
+ -0.01470619]",0.2607452079988397
+230,230,"20 November – Progress on the Human Cell Atlas is reported, with a collection of 40 new scientific papers in Nature describing the project's latest discoveries.","[-0.02121793 -0.00461567  0.02529929 ... -0.0082271   0.00365327
+ -0.01311314]",0.2609110477125163
+182,182,"11 September – A study finds that the bluestreak cleaner wrasse (Labroides dimidiatus), a small tropical fish, may possess a form of self-awareness.","[ 0.00707362  0.01159269  0.01420088 ... -0.00657075  0.00236011
+ -0.02576004]",0.2610215215386401
+219,219,30 October – Researchers demonstrate using trained rats as cost-effective detection tools for illegal wildlife trade.,"[-0.0128802  -0.00664915  0.00125009 ...  0.00532741  0.01665659
+ -0.01526742]",0.2614201768874137
+10,10,10 January – Chemists report studies finding that long-chain fatty acids were produced in ancient hydrothermal vents. Such fatty acids may have contributed to the formation of the first cell membranes that are fundamental to protocells and the origin of life.,"[-2.01068870e-05 -9.80701204e-03 -1.87440477e-02 ...  1.33001013e-02
+  3.01526074e-04 -2.05499083e-02]",0.2615407512874238
+90,90,"1 April – An entirely new class of antibiotics with potent activity against multi-drug resistant bacteria is discovered. These compounds target a protein called LpxH, and are shown to cure bloodstream infections in mice.","[-0.00214241  0.00333282 -0.01708593 ... -0.00627884  0.00307273
+  0.00478166]",0.26190085956273246
+60,60,"19 February – Researchers with the University of Tennessee and University of Missouri publish an academic study about how survivors from the 2011 Joplin tornado recover from ""Tornado Brain"", a new term for the PTSD of tornado survivors.","[-0.03730423  0.01113369  0.00356506 ...  0.0129748  -0.00890428
+ -0.03232319]",0.2622204523501408
+124,124,"13 May – OpenAI reveals GPT-4o, its latest AI model, featuring improved multimodal capabilities in real time.","[-0.02234438 -0.01028465 -0.0101627  ... -0.0019614  -0.00696483
+ -0.01848256]",0.26227873027501925
+163,163,30 July – The world's first fully automated dental procedure on a human is reported by Boston company Perceptive.,"[-0.00638125  0.01647765  0.01677166 ...  0.01709239  0.00875334
+ -0.00512504]",0.26270229241565124
+237,237,"16 December – The China Aerospace Science and Technology Corporation (CASC) launches the first batch of the Guowang (Xingwang) megaconstellation, a planned constellation of 13,000 satellites using a Long March 5 rocket at the Wenchang Space Launch Site.","[ 1.53704211e-02  5.63827762e-03 -6.73712231e-03 ...  2.70628116e-05
+  5.76893287e-03 -1.94709860e-02]",0.26287814516668995
+74,74,"4 March – Biochemists report making an RNA molecule that was able to make accurate copies of a different type of RNA molecule, moving closer to an RNA that could make accurate copies of itself, and, as a result, providing support for an RNA world that may have been an essential way of starting the origin of life.","[-0.02400954 -0.00150543 -0.01620837 ... -0.00648593  0.00754328
+ -0.00222913]",0.2639665507976896
+245,245,27 December – Category:Science events,"[-0.00017138  0.00287984 -0.00377897 ... -0.0032448  -0.01794262
+ -0.0277102 ]",0.26435304686713645
+150,150,"12 June – Promising results of health and medical research are reported: a blood AI test of plasma proteins that predicts Parkinson's disease up to 7 years before symptom onset (18 June), walking programs as a cost-effective method against lower back pain recurrence (19 June).","[-0.01173925 -0.00154266  0.0242678  ...  0.00053303  0.01527774
+ -0.00532781]",0.2643652333862071
+197,197,"2 October – Scientists announce the first ever complete mapping of the entire brain of a fruit fly, Drosophila melanogaster, with a detail of 50 million connections between more than 139,000 neurons.","[-0.01358     0.00108589  0.00415832 ... -0.00393475 -0.00999657
+ -0.02267591]",0.2647722596390808
+31,31,"19 January – Japan becomes the fifth country to achieve a soft landing on the Moon, with its SLIM mission.","[ 0.00671955 -0.00279177 -0.00959016 ...  0.01043332  0.00243133
+ -0.00592788]",0.26484973418355273
+183,183,"11 September – The Jülich Supercomputing Centre in Germany announces the start of installation for JUPITER, Europe's first exascale supercomputer.","[ 0.00331617 -0.00204976  0.01266412 ... -0.01038589  0.01511861
+ -0.01804311]",0.26490749680502323
+1,1,3 January – The first functional semiconductor made from graphene is created.,"[ 0.00218419  0.01236077 -0.01098953 ...  0.00047667  0.00369909
+ -0.01325535]",0.26530433529032527
+104,104,24 April – Demonstration of synthetic diamond created at 1 atmosphere of pressure in around 150 minutes without needing seeds.,"[-0.0073067   0.00497819 -0.01065895 ...  0.00171627 -0.00877874
+ -0.01753072]",0.26543121688923677
+184,184,"12 September – OpenAI releases its ""o1"" series of large language models (LLMs), featuring improved capabilities in coding, math, science and other complex tasks.","[-0.00475827 -0.00054722 -0.02133678 ...  0.00055493 -0.00245455
+ -0.01965013]",0.26563348162268907
+143,143,10 June – A study finds African elephants use personal name-like calls to address one another.,"[-0.01351917 -0.00651354  0.0159666  ... -0.01359686  0.03219219
+ -0.03799352]",0.2659650534702609
+208,208,"13 October – SpaceX achieves the first successful return and capture of a Super Heavy booster from Starship, the biggest and most powerful rocket ever to fly.","[-0.00741479 -0.01492154 -0.017299   ... -0.00351037 -0.00533616
+ -0.01309575]",0.26604373879425447
+200,200,"4 October – Scientists develop artificial plants with leaves using biological solar cells, which can perform respiration, photosynthesis and generate electricity.","[-0.00110311  0.00086077 -0.00150999 ...  0.00111203  0.00658786
+ -0.02342063]",0.26607165274482936
+97,97,"11 April – The first nitrogen-fixing organelle in a marine alga is reported, the nitroplast. The early evolutionary stage organelle provides a view into the transition from an endosymbiont into a proper organelle that receives about half of its proteins from the alga.","[-0.00715332 -0.01760817 -0.00709436 ...  0.01428044 -0.01202046
+ -0.01205976]",0.26615871384436907
+69,69,28 February – A study reconstructs the genetic event of tail-loss in human ancestors around 25 million years ago.,"[-0.01420495  0.00205658  0.02401904 ...  0.01419188  0.01871342
+ -0.00385834]",0.26656496362849647
+133,133,"23 May – A team shows that iron instead of cobalt and nickel can be used as a cathode material in lithium-ion batteries, improving both safety and sustainability.","[ 0.00444878  0.00987509  0.02368692 ... -0.00137237 -0.01043368
+  0.00116539]",0.2671210736733365
+52,52,"7 February – A battery based on calcium, able to charge and discharge fully 700 times at room temperature, is presented. It is described as a potential alternative to lithium, being 2,500 times more abundant on Earth.","[ 0.02553505  0.0029552  -0.01146579 ... -0.00451005 -0.00649553
+ -0.01445058]",0.2671704858980736
+146,146,"12 June – The Economist reports that China has become a ""scientific superpower"", citing numerous examples of its rapid development across a wide range of fields.","[-0.00688558 -0.01200059  0.01537125 ...  0.00550847  0.00623309
+ -0.01858452]",0.267420752703045
+100,100,15 April – The NOAA confirms a fourth global coral bleaching event.,"[-0.00212175 -0.00379116  0.00101288 ...  0.01716926  0.00270588
+ -0.01537293]",0.26762207983930963
+20,20,"12 January – NASA reports a figure of 1.4 degrees Celsius above the late 19th century average, when modern record-keeping began.","[ 0.01011073  0.00560033 -0.00497843 ...  0.0259917  -0.01039924
+ -0.02915891]",0.26766537688372327
+144,144,11 June – Scientists report that serious kidney disease may be associated with human spaceflight.,"[ 0.02803832 -0.01113477  0.02095728 ... -0.00179625  0.01613698
+ -0.03157235]",0.26770256568723727
+194,194,"30 September – Researchers develop a new method merging confocal fluorescence microscopy with microfluidic laminar flow, that can detect nanoparticles and viruses quickly. It can be achieved by using the 3D-printed microscopy approach, Brick-MIC.","[-0.02564964  0.02977454 -0.00644936 ... -0.01000323 -0.00540134
+ -0.00872007]",0.2678134479678631
+42,42,"29 January – Promising results of health and medical research are reported: mouse-tested novel antibiotics class (including Zosurabalpin) against A. baumannii (3 Jan), small-trialed focused ultrasound for blood–brain barrier opening for better medication (Aducanumab) entry against Alzheimer's disease (3 Jan), a review supports the efficacy of exercise against depression (15 Jan), an available blood test to detect Alzheimer's disease with high accuracy using p-tau217 (22 Jan), one of two small-trialed gene therapies against DFNB9-deafness (24 Jan), phase 3-trialed dengue vaccine effective against at least two of four dengue types (31 Jan)","[-0.02221975  0.00563066  0.01059362 ... -0.01477187 -0.00950604
+ -0.00893471]",0.26803583333051473
+123,123,"10 May – A series of solar storms and intense solar flares impact the Earth, creating aurorae at more southerly and northerly latitudes than usual.","[-0.01123375 -0.00902341 -0.00778171 ...  0.01164981  0.0154204
+ -0.02129732]",0.26842263170887937
+72,72,"28 February – Hazard research is published: several dietary habits and products including teabags are linked to PFAS intake (4 Feb), an additional three billion people may face water scarcity by 2050 when river pollution is considered, an aspect neglected by prior assessments (6 Feb), HPV infection linked to higher cardiovascular mortality (7 Feb), researchers use simulations to develop an early-warning signal for a potential collapse of the atlantic meridional overturning circulation (AMOC) and suggest it indicates the AMOC is ""on route to tipping"" (9 Feb), researchers report the H5N1 bird flu virus may be changing and adapting to infect more mammals (12 Feb), researchers report how compounding disturbances could trigger unexpected ecosystem transitions in the Amazon rainforest (14 Feb), harmful chlormequat is found in ~80% of U.S. adult urine samples, rising during 2023, and in oat-based foods widely thought to be healthy (15 Feb), excess amounts of widely-supplemented niacin (B3) are linked to cardiovascular risk (19 Feb), a review concludes available evidence on the use of puberty blockers and cross-sex hormones in minors with gender dysphoria is very limited and based on only a few studies with small numbers which have problematic methodology and quality, warning about their use outside of clinical studies or research projects after careful risk-benefit evaluation (27 Feb).","[-0.00688313  0.00092064 -0.00107148 ... -0.0040744  -0.0142864
+ -0.01775397]",0.2687392030080624
+142,142,"8 June – A paper challenges the public perception and media depictions of large language models like especially ChatGPT, arguing that ""bullshitting"" in the sense of the book On Bullshit and a fundamentally flawed design are a better approach or terminology for understanding the flaws of these AI architectures or the behavior of the systems based on these as opposed to occasional or frequent ""hallucinations"". In agreement with many other experts, they find these models are in an ""important way indifferent to the truth of their outputs"". This notion has also been applied to Perplexity AI that is typically used for generating outputs that are less inaccurate than ChatGPT's – or contain fewer ""hallucinations"" – and which was scaled up substantially during 2024. An investigation by WIRED reportedly showed the chatbot at times closely paraphrased WIRED stories, and at times summarized stories inaccurately and with minimal attribution. Approaches to mitigate inaccurate information and hallucinations include the use of retrieval-augmented generation and ""grounding"" by configuring the corpus to be used by the AI which is used for example in the open source chatbot ""WikiChat"" that essentially prevents the hallucinations by retrieving facts only from a multilingual Wikipedia corpus, thereby providing a novel way to use Wikipedias. On 12 August, researchers demonstrate a open source 'AI Scientist' which generates novel research ideas, writes code, executes experiments, and writes a final research paper in the field of machine learning evaluated by an automated reviewer. The authors of the preprint advise ""treating generated papers as hints of promising ideas for practitioners to follow up on"". On 11 May, a study shows that 52% of ChatGPT answers to 517 programming questions on Stack Overflow contain incorrect information and 77% are verbose where study participants still preferred ChatGPT answers 35% of the time but also overlooked the misinformation in the ChatGPT answers 39% of the time.","[-0.02926025  0.02123905  0.01273109 ... -0.01779747 -0.00944034
+ -0.03921477]",0.2690709711975494
+89,89,"27 March – Hazard research is published: a small trial links micro- and nanoplastics in carotid artery plaque to higher cardio and mortality risks (6 Mar), U.S. land area of ~1200 km² is threatened by coastal subsidence by 2050 due to sea level rise (6 Mar), an EEA risk assessment finds Europe underprepared for climate risks across five broad clusters (11 Mar), a preprint trial suggests large language models could be used for tailored manipulation, being more persuasive than humans when using personal information (21 Mar).","[-0.00637255 -0.00497555  0.02331556 ... -0.00574287 -0.02849068
+ -0.02953671]",0.2690956600908684
+236,236,13 December – A new light-induced gene therapy using nanoparticles to target the mitochondria of cancer cells is demonstrated.,"[-0.02686007  0.00529251 -0.01044704 ... -0.0121685  -0.00697784
+ -0.01526976]",0.2693104681846836
+232,232,"5 December – A single mutation known as Q226L is found to enhance the ability of H5N1 ('bird flu') to infect human cells, particularly in the respiratory tract. Previously, at least three mutations were thought to be required for the virus to infect people and spread between them.","[-0.02802925  0.00827783 -0.00738328 ... -0.01220608 -0.00659569
+ -0.0003312 ]",0.26967412369548205
+21,21,12 January – NOAA reports a figure of 1.35 degrees Celsius.,"[ 0.01087719  0.00671616 -0.01137781 ...  0.02456306  0.00104269
+ -0.04166229]",0.26980611728667847
+98,98,12 April – Biologists report that bonobos behave more aggressively than thought earlier.,"[-0.02805907 -0.00381587 -0.01268158 ... -0.00295244  0.01732903
+ -0.01109889]",0.26985787930448724
+6,6,"9 January – A group of scientists from around the globe have charted paradigm-shifting restorative pathways to mitigate the worst effects of climate change and biodiversity loss with a strong emphasis on environmental sustainability, human wellbeing and reducing social and economic inequality.","[ 0.00499503 -0.01254184  0.00837877 ...  0.00434065 -0.02526784
+ -0.03751373]",0.2699495844954076
+222,222,14 November – AI-generated poetry is shown to be indistinguishable from human-written poetry and is rated more favourably.,"[-0.01935955 -0.01080745 -0.01387109 ... -0.01179825  0.01744315
+ -0.02802898]",0.27007950510998513
+33,33,23 January – A viable and sustainable approach for gold recovery from e-waste is demonstrated.,"[ 0.01071625  0.00939012  0.00234753 ...  0.00508017 -0.00761524
+ -0.00756836]",0.2706590871568407
+168,168,5 August – An analysis suggests hydraulic lifts may have been used to build ancient large Egyptian pyramids.,"[-0.01288634 -0.00509066  0.01550011 ...  0.01177174  0.00576854
+ -0.01058544]",0.2710970016540101
+22,22,12 January – Berkeley Earth reports a figure of 1.54 degrees Celsius.,"[ 0.00812649  0.00303524 -0.00677316 ...  0.0181008  -0.0156544
+ -0.04510236]",0.27135202546799564
+177,177,"23 August – BNT116, the world’s first mRNA lung cancer vaccine, begins a Phase I clinical trial in seven countries.","[-0.02935909 -0.00811939 -0.01854592 ... -0.02182917  0.01344991
+  0.01519929]",0.2713560489927339
+185,185,12 September – Jared Isaacman and Sarah Gillis complete the first commercial spacewalk and test slimmed-down spacesuits designed by SpaceX.,"[ 0.01007225 -0.00556324 -0.00505291 ...  0.00364951  0.00055565
+ -0.01959389]",0.2714703025951528
+173,173,"14 August – The World Health Organization (WHO) declares mpox a public health emergency of international concern for the second time in two years, following the spread of the virus in African countries.","[ 1.65714708e-03 -9.64025210e-04  9.46229338e-05 ... -4.53295233e-03
+ -9.75414529e-04 -1.15910806e-02]",0.272110064839333
+47,47,"5 February – A study based on 300-years-long temperature records preserved in Caribbean sclerosponge carbonate skeletons shows industrial-era warming already began in the mid-1860s and that by 2020, global warming was already 1.7±0.1 °C above pre-industrial levels. However, their reference period is not used by the IPCC and the 1.5 °C climate goal and the study's authors suggest their results show a better baseline.","[-0.00226805 -0.01369635  0.01655302 ...  0.00984833 -0.0372019
+ -0.01685303]",0.2723216171301641
+191,191,"23 September – Scientists publish the first multi-century, multi-model forecast of Antarctic Ice Sheet loss derived from global climate models, which indicates that the West Antarctic ice sheet may undergo a near-total collapse by 2300.","[-0.01066548 -0.01673741  0.01921898 ...  0.01462543 -0.00742491
+ -0.02638649]",0.2723510225778686
+165,165,"30 July – Hazard research is published: a study finds electric cars pose a twice as large collision risk to pedestrians in cities than internal combustion engine cars, likely largely due to being quieter (10 July), and a study reports substantial heavy metal contamination of cocoa products (31 July).","[ 0.00776776  0.00898821  0.00476045 ... -0.00284379  0.00556959
+ -0.01967562]",0.27252840587744787
+199,199,"3 October – Google releases a new feature, ""Video Search"", which will allow people to ask a question while filming video of something, and get search results.","[-0.02158784  0.00781672  0.00407939 ...  0.00150206 -0.01881335
+ -0.00789907]",0.2728521787436893
+112,112,"2 May – The first bioprocessing system for human brain organoids performing computational tasks enabling remote wetware computing research via a Python library, NeuroPlatform, is released.","[-0.01608767 -0.00174971  0.00272597 ... -0.00709507 -0.01344764
+ -0.01223763]",0.2731491261458563
+221,221,"23 October – Hazard research is published: a study finds that the growth rate of wildfires across the western U.S. more than doubled between 2001 and 2020 and that 'fast fires' accounted for ~78% of structures destroyed in the contiguous U.S. (24 Oct.), and a study finds sugar rationing during the first 1000 days after conception reduced type 2 diabetes and hypertension risk by about 35% and 20% (31 Oct.).","[-0.01219571 -0.02302036 -0.00108058 ...  0.00575852 -0.00725984
+ -0.02749006]",0.27347062582255766
+88,88,"27 March – Promising results of health and medical research are reported: a blood test against colon cancer (13 Mar), mice-tested antibody-mediated depletion of myeloid-biased hematopoietic stem cells against immune system aging (27 Mar).","[-0.03476167  0.00048713  0.00843814 ... -0.02140406 -0.00821905
+  0.00543068]",0.27352343220374165
+71,71,"28 February – Promising results of health and medical research are reported: phase 3-trialed R21/Matrix-M vaccine against Malaria (1 Feb), phase 3-trialed resmetirom as first medication against nonalcoholic steatohepatitis of the liver (7 Feb), a blood test against heart attacks, the top cause of human deaths (12 Feb), a low-cost saliva test against breast cancer (13 Feb), pigs-tested patient repositioning method for magnetic microbot navigation against liver cancer (14 Feb), antibiotic cresomycin against multiple drug-resistant bacterial strains (15 Feb), small-trialed 15 min exposure to 670 nm red light against blood glucose spikes following meals (20 Feb), small-trialed Omalizumab against food allergies (25 Feb), a donor heart is transplanted after 12 hours of preservation and transport using an airplane, small-trialed headgear for gamma stimulation to recruit the glymphatic system to remove brain amyloid against Alzheimer's disease (28 Feb).","[-0.03156966  0.01132512 -0.00504355 ... -0.02214378 -0.0093274
+ -0.00532844]",0.2738514694089249
+54,54,"8 February – Google renames AI chatbot Bard to Gemini, and makes it available on mobile.","[-0.01435305 -0.00024779 -0.01913299 ... -0.00717652 -0.02156258
+ -0.02593319]",0.274069186000489
+119,119,"9 May – A record annual increase in atmospheric CO2 is reported from the Mauna Loa Observatory in Hawaii, with a jump of 4.7 parts per million (ppm) compared to a year earlier.","[-0.00678432 -0.00255678  0.01249277 ...  0.02313758 -0.00246185
+ -0.0226566 ]",0.2743860168492518
+179,179,"14 August – Hazard research is published: a study finds the likelihood of receiving an dementia diagnosis varies 2-fold based on place of residence in the U.S. after adjusting for underlying sociodemographic and population dementia risk factors, indicating there to be further regional risk factors or especially worse diagnostics (16 Aug.), and a study shows of the infant and toddler foods in 10 major grocery chains, 60% failed to meet the nutritional requirements of the WHO's nutrient and promotion profile model (NPPM) (21 Aug.).","[ 0.00617352  0.01562278  0.01529123 ... -0.00449254 -0.00947579
+ -0.00344152]",0.2744405031372602
+247,247,27 December – List of emerging technologies,"[-0.00334067 -0.00130884  0.00791736 ... -0.00262953  0.00584151
+ -0.02366403]",0.2747947540156559
+9,9,9 January – A study finds seaweed farming could be set up as a resilient food solution within roughly a year in abrupt sunlight reduction scenarios such as after a nuclear war or a large volcano eruption.,"[ 0.00627198 -0.02212287  0.00515162 ...  0.00653938 -0.00904411
+  0.00074719]",0.2749229598308721
+26,26,"17 January – A study in Nature finds that the Greenland ice sheet is melting 20% faster than previously estimated, due to the effects of calving-front retreat. The loss of 30m tonnes of ice an hour is ""sufficient to affect ocean circulation and the distribution of heat energy around the globe.""","[-0.02026433 -0.00185057  0.01880582 ...  0.00340105 -0.00129476
+ -0.03314574]",0.27503081849729716
+204,204,"9 October – An experimental study introduces a new cognitive fallacy, the ""illusion of information adequacy"". It suggests many ""assume that the cross-section of relevant information to which they are privy is sufficient to adequately understand the situation"" to be able to form a reasonable conclusion, opinion, or decision.","[-0.00239359  0.01598851  0.02568338 ... -0.00796078  0.00179603
+ -0.04127016]",0.2752565514943408
+109,109,29 April – Promising results of health and medical research are reported: phase 2-trialed GLP-1 receptor agonist diabetes 2 drug lixisenatide against (early) Parkinson's disease motor disability (3 April).,"[-0.01231327 -0.00239838  0.02270513 ... -0.01205618 -0.00761799
+ -0.01986361]",0.2755209346609653
+137,137,"23 May – Promising results of health and medical research are reported: a mRNA vaccine-like immunotherapy against brain cancer tested in a preliminary small trial (1 May), ferrets-tested mRNA vaccine against the clade 2.3.4.4b H5 bird flu amid concerning developments of the 2020–2025 H5N1 outbreak (23 May), mice-tested antibiotic lolamicin specific to Gram-negative bacteria that spares the gut microbiome (29 May).","[-0.04331718 -0.01093088 -0.01271883 ... -0.03134333 -0.00390776
+  0.00179642]",0.27559042289067814
+195,195,"23 September – Hazard research is published: a systematic analysis estimates 4.71 million deaths were associated with bacterial antimicrobial resistance (AMR) in 2021, estimates the trends in AMR mortality since 1990, and finds AMR could cause 39 million deaths worldwide between 2025 and 2050 (16 Sep.), researchers publish data on the detection of over 3000 food contact materials (FCMs) in humans (17 Sep.), and a study finds 189 (21%) of potential breast carcinogens have been measured in FCMs, indicating at least 76 of these leach into foods of populations (24 Sep.).","[ 0.00667815 -0.00426328 -0.00673115 ... -0.01370081 -0.01755664
+ -0.01191864]",0.2760963138745829
+170,170,"8 August – A study on the terraforming of Mars suggests that releasing metal nanorods into the planet's atmosphere could warm it by 30 K, and would be far more efficient than trying to do so with greenhouse gases.","[ 0.00145473 -0.00198025  0.00234738 ...  0.00949999 -0.01679069
+ -0.01219014]",0.2763953644909444
+240,240,"22 December – Researchers in South Korea demonstrate a way to revert cancer cells back to normal, healthy cells, using simulations to identify ""master molecular switches"" involved in cell differentiation.","[-3.29394802e-03  2.73535879e-05 -4.38973680e-03 ...  4.03434597e-03
+ -8.65442865e-03  3.57036316e-03]",0.2765495722729825
+17,17,"11 January – The Upano Valley sites are reported as the oldest Amazonian cities built over 2500 years ago, with a unique ""garden urbanism"" city design.","[ 0.01689483 -0.0091334   0.00714731 ...  0.00324863 -0.03342381
+ -0.01306638]",0.2767775667026372
+61,61,"20 February – The northern green anaconda (Eunectes akayima), a new species of the giant snake, is described for the first time.","[-0.01292809  0.00634622  0.00615966 ... -0.00483412  0.00794668
+ -0.01512096]",0.2773804787699238
+215,215,19 October – Researchers develop a plant-based food supplement to protect bees' brains from neurotoxins.,"[-0.00681745 -0.00939559  0.01650541 ... -0.00361139 -0.01169465
+ -0.01520305]",0.2774583612535996
+164,164,"30 July – Promising results of health and medical research are reported: researchers report an apparent substantially improved prognoses of head and neck cancers if Fusobacterium is present in the patient's oral microbiome, a common bacteria of mouths thought to make bowel cancer worse (6 July), phase 3-trialed lenacapavir for HIV prevention (24 July).","[-0.00970592 -0.00017344  0.01941183 ...  0.0092094   0.00185004
+  0.00040555]",0.2782584263187855
+127,127,"15 May – Solar energy is combined with synthetic quartz to generate temperatures of more than 1,000°C. This proof-of-concept method shows the potential of clean energy to replace fossil fuels in heavy manufacturing, according to a research team at ETH Zurich.","[ 0.00820806 -0.00312119 -0.01242498 ...  0.00415051 -0.00870612
+ -0.02419915]",0.27835339798239533
+235,235,10 December – AI-based transfer learning predicts that global warming will reach 3°C faster than previously expected.,"[-0.01100849 -0.01675547  0.00550752 ...  0.00077127 -0.01427561
+ -0.03107044]",0.2784806807329703
+174,174,"14 August – Human ageing is found to progress in two accelerated bursts from the ages of 44 and 60, rather than being a gradual and linear process.","[-1.05939843e-02 -3.86073510e-03  5.59250498e-03 ... -1.55541545e-03
+ -7.63110802e-05  1.72223744e-03]",0.27884883329679666
+106,106,"26 April – mRNA-4157/V940, the first personalised melanoma vaccine based on mRNA, enters a final-stage Phase III trial.","[-0.03035157 -0.02460142 -0.00690274 ... -0.02116926  0.01374145
+  0.01996544]",0.27946100876262137
+118,118,"8 May – The first AI-generated song made with Suno AI reaches over a million listens, shortly after a song with samples generated with Udio became viral. During 2024, AI-generated music created with tools like, most notably, Suno or Udio became sophisticated and popular. Just one year earlier, many experts reportedly thought that AI models capable of generating complete high-quality songs from text prompts wouldn't arrive any time soon.","[-0.02024138 -0.02895866  0.00574855 ... -0.02476195 -0.00510083
+ -0.00761076]",0.2795624442241925
+30,30,"18 January – Bottom trawling is found to release 340 million tonnes of carbon dioxide (CO2) into the atmosphere each year, nearly 1 percent of all global CO2 emissions in addition to acidifying oceans.","[-0.00114527 -0.00248852  0.01201443 ...  0.03703483 -0.01600636
+ -0.02231619]",0.28000611273149834
+157,157,"11 July – Researchers report to have developed a cell-free system that self-regenerates using carbon dioxide (CO2). They combined an artificial metabolic network that performs CO2 fixation with cell-free protein synthesis using recombinant elements. According to the study this demonstrates how metabolic and genetic networks can be integrated and simultaneously operated outside of the cellular context towards self-maintenance of biological networks, a hallmark of life.","[-0.0187543   0.00771964 -0.01432987 ... -0.00814888  0.00625364
+ -0.01732792]",0.2810618301027208
+43,43,"29 January – Hazard research is published: ~240.000 particles of microplastic and nanoplastics (~90%) per liter are found in samples of plastic-bottled water (8 Jan), a study estimates harmful chemicals used in plastic materials have caused $249 billion U.S. healthcare system costs in 2018 (11 Jan), a study indicates fungal infections may be causing millions more deaths annually than thought (12 Jan), a study of European plastic waste exports to Vietnam finds a large fraction is dumped in nature and suggests air pollution from melting plastics and untreated wastewater have significant impact on health (18 Jan).","[ 0.00939023  0.00407936  0.01238868 ... -0.00382503 -0.0182718
+ -0.02092222]",0.28149764714525816
+171,171,"12 August – Liquid water is confirmed to be present at depths of 10 to 20 km (6.2 to 12.4 mi) below the surface of Mars, based on a new analysis of data from NASA's InSight lander.","[ 0.00341991 -0.00435722 -0.00887277 ... -0.01404697 -0.01650424
+  0.00587085]",0.2819970530797017
+48,48,"5 February – A study reports high life satisfaction in people with low incomes among small-scale societies outside mainstream societies, in contrast with conclusions of a 2023 adversarial collaboration.","[ 0.00488863  0.00385818  0.01907524 ... -0.00922267  0.00409782
+ -0.00520358]",0.2820180042971002
+166,166,"1 August – A study in Nature finds that based on current policies, there is a 45% risk of at least one major tipping point by 2300, even if global warming is brought back to below 1.5 °C. The risk is ""strongly accelerated"" for peak warming above 2.0 °C. The Atlantic Meridional Overturning Current (AMOC) is identified as being at the most urgent risk of collapse – possibly occurring as early as 2040 – followed by the Amazon rainforest in the 2070s.","[-0.01385985 -0.02599544  0.01015467 ...  0.01339917 -0.01525505
+ -0.02512673]",0.2824512827032435
+79,79,"14 March – SpaceX successfully launches the Starship spacecraft, but loses the rocket upon re-entering the atmosphere.","[ 0.00502429 -0.00327216 -0.01236295 ...  0.00562903 -0.00216401
+ -0.01841041]",0.28249319685360796
+128,128,"16 May – A multimodal algorithm for improved sarcasm detection is revealed. Trained on a database known as MUStARD, it can examine multiple aspects of audio recordings and has 75% accuracy.","[-0.03382248  0.00192713  0.01371916 ... -0.01090062 -0.00903291
+ -0.01318262]",0.28292871392830643
+111,111,"1 May – A new brain circuit that may act as a ""master regulator"" of the immune system is reported.","[-0.02321876  0.00696043 -0.0048275  ... -0.02132282  0.00279196
+ -0.0072656 ]",0.2830738866924384
+213,213,17 October – A study of 25 crowdsourced ideas aimed at reducing political polarisation in the United States is published in the journal Science.,"[-0.02227387  0.01105197  0.01586882 ...  0.00848342  0.0212935
+ -0.03516239]",0.2833819520986194
+162,162,"30 July – A study (19 April) on North Sea oil and gas extraction finds that pollution can spike by more than 10,000% within half a kilometre around offshore drilling sites.","[ 0.0112087  -0.01701085  0.0209273  ...  0.01590317  0.0006581
+  0.0011629 ]",0.28494279229279995
+155,155,9 July – The first local extinction due to sea level rise in the United States is reported: that of the Key Largo tree cactus (Pilosocereus millspaughii) in Florida.,"[-0.00163351 -0.01887538  0.01292339 ...  0.00280336 -0.01794148
+ -0.03133183]",0.285249688347203
+103,103,"23 April – The world's largest 3D printer, dubbed Factory of the Future 1.0 (FoF 1.0), is presented by the University of Maine. Using thermoplastic polymers, the machine can print objects as large as 96 feet (29 m) long by 32 feet (9.8 m) wide by 18 feet (5.5 m) high, at a rate of 500 pounds (230 kg) per hour.","[-0.01275192  0.00445793 -0.0276248  ... -0.00021561  0.00553151
+ -0.03705126]",0.2854306485844632
+82,82,20 March – The removal of HIV from infected cells using CRISPR gene editing technology is reported.,"[-0.02924625  0.01838482  0.01163816 ... -0.00811397  0.00138416
+  0.00274424]",0.28546726235177133
+18,18,"11 January – A study presents results of a Riyadh-based trial of eight urban heat mitigation scenarios, finding large cooling effects with combinations that include reflective rooftop materials, irrigated greenery, and retrofitting.","[ 0.00442527  0.01576272  0.01303016 ... -0.02133553 -0.01717611
+ -0.0267872 ]",0.28575594656188563
+181,181,10 September – Researchers in Sweden demonstrate a battery made of carbon fibre composite as stiff as aluminium and energy-dense enough to be used commercially.,"[ 0.0136577  -0.00747234  0.00383795 ...  0.00644801 -0.00884467
+ -0.01533865]",0.2857634182965353
+120,120,"9 May – A cubic millimetre of the human brain is mapped at nanoscale resolution by a team at Google. This contains roughly 57,000 cells and 150 million synapses, incorporating 1.4 petabytes of data.","[ 0.00126252  0.01743159  0.02564692 ... -0.00400043 -0.02805173
+ -0.03980278]",0.2860167220710489
+242,242,"27 December – A new technique for lifelike facial expressions on androids is reported by Osaka University, using waveform movements to dynamically express mood states, such as ""excited"" or ""sleepy"".","[-0.02746918  0.00631222  0.01544718 ...  0.00468086  0.01445889
+ -0.01815484]",0.2869537951895871
+38,38,29 January – Elon Musk's startup Neuralink implants their first microchip into a human brain.,"[-9.35260765e-03  4.53362954e-05  1.58655662e-02 ... -2.18998222e-03
+ -5.56857930e-03 -1.55171228e-03]",0.2870138869747073
+176,176,"22 August – The first systematic analysis of 1,500 climate policy measures from 41 countries is published. Of the policy interventions that have been tried by 2022, it identifies 63 successful ones in terms of large trend breaks. The authors find that the introduction of a right combination of measures is crucial and that price-based instruments played a key role in these policy mixes.","[-0.01067006  0.00485595 -0.00026317 ... -0.00744362 -0.01658194
+ -0.02813195]",0.2880321084828833
+63,63,"21 February – The first neuroimaging study that shows flow state-related brain activity during a creative production task, jazz improvisation, is published. Its results support a theory that creative flow represents optimized specialized processing enabled by extensive experience, relaxing conscious control.","[-0.02919573 -0.01288593  0.00846676 ...  0.00034608  0.00831415
+ -0.03694586]",0.28855945971902675
+147,147,"20 June – Following a surge in population of the Iberian lynx – from 62 mature individuals in 2001 to 648 in 2022 – the International Union for Conservation of Nature removes the animal from its ""endangered"" list, classing the animal as ""vulnerable"" instead.","[-0.00555177  0.00661018  0.00296257 ... -0.01805136 -0.00159816
+ -0.01492159]",0.2893642718463234
+57,57,"14 February – A study reviews educational content of 18,400 universities worldwide, finding higher education is not transitioning from fossil fuels to renewable energy curricula, failing to meet the growing demand for a clean energy workforce. On 26 February, a study analyzing funding sources and activities of two prominent academic centers delineates animal agriculture industry entrenchment in academia through support of industry-supported research and policy advocacy amid potential unfavorable policies.","[ 0.00488234 -0.03103298 -0.00669817 ... -0.01750956  0.01092174
+ -0.0090223 ]",0.29089454275863935
+55,55,10 February – An analysis of Outer London's Mini-Hollands active transport infrastructures indicates Low Traffic Neighbourhoods are highly effective and cost-efficient measures in terms of health economic benefits.,"[ 0.00462468  0.01039052  0.01449468 ...  0.00634643  0.0045713
+ -0.02363727]",0.2909475647099733
+19,19,12 January – Global warming: 2023 is confirmed as the hottest year on record by several science agencies.,"[-0.0079012  -0.01419431 -0.01485274 ...  0.01131999 -0.02438737
+ -0.00881288]",0.29098073986594897
+220,220,"23 October – Promising results of health and medical research are reported: phase 2-trialed at-home transcranial direct current stimulation against major depressive disorder (21 Oct.), an analysis of electronic health records of 116 million US patients links semaglutide to a significantly reduced risk for Alzheimer's disease (24 Oct.).","[-0.04174386 -0.00320524  0.03552444 ... -0.00354124  0.00189251
+ -0.01143081]",0.29198719076490376
+96,96,9 April – A rare genetic variation in a gene that makes fibronectin is shown to reduce the odds of developing Alzheimer's disease by over 70%.,"[-0.0217044   0.01956218  0.02410317 ... -0.02075515 -0.00547741
+ -0.01680423]",0.2923371601216519
+8,8,"9 January – A study of proteins in cerebrospinal fluid indicates there are five subtypes of Alzheimer's disease, suggesting it to be likely that subtype-specific treatments are required.","[-0.00867245  0.0136575   0.01933634 ... -0.00709213 -0.00290848
+ -0.00356534]",0.29350031172071367
+115,115,6 May – People aged over 65 with two copies of the APOE4 gene variant are found to have a 95% chance of developing Alzheimer's disease.,"[-0.00123892  0.01605461  0.02143931 ... -0.0105269  -0.00283536
+ -0.00489659]",0.29356500623976955
+83,83,26 March – A study outlines identified ecological pandemic prevention measures for policy frameworks.,"[ 0.00423378  0.00998128  0.01179906 ...  0.01039111 -0.00807096
+ -0.03648786]",0.29362527846595077
+58,58,"17 February – A global review of harms from personal car automobility finds cars have killed 60–80 million people since their invention, with automobility causing roughly every 34th death, and summarises interventions that are ready for implementation to reduce the, largely crash-linked or pollution-mediated, deaths from automobility-centrism and dependency.","[ 0.0138486   0.00273911  0.02623809 ...  0.00694384 -0.01270215
+ -0.01904671]",0.2940271987341102
+178,178,"29 August – The first global analysis estimating inadequate intakes of 15 micronutrients using dietary intake data is published, suggesting over half of the global population do not consume enough iodine (68%), vitamin E (67%), calcium (66%), iron (65%), riboflavin (55%), folate (54%), and vitamin C (53%).","[ 0.01072113 -0.0148507   0.01735865 ... -0.00933585 -0.00908637
+  0.00254405]",0.29405640572421254
+227,227,"19 November – Northern and central parts of the Great Barrier Reef are reported to have suffered their worst coral bleaching on record, with up to 72 per cent mortality.","[-0.01096289 -0.00506403  0.00957149 ...  0.00062046 -0.01083346
+ -0.01472936]",0.2947528908242336
+226,226,18 November – Coal ash from power plants across the United States is likely to contain up to 11 million tons of rare-earth elements – nearly eight times the amount the US has in domestic reserves – according to a study by the  University of Texas at Austin.,"[ 0.0040813  -0.01691206  0.00855606 ... -0.00318602  0.00138711
+ -0.02499463]",0.29513214004322363
+67,67,"26 February – A small trial suggests prebiotic resistant starch, contained in many foods, can help in weight loss (~2.8 kg in 8 weeks).","[ 0.00596697 -0.00623108  0.01446419 ...  0.00879068 -0.0207507
+ -0.02176802]",0.2956337248852299
+93,93,"4 April – A study in Nature finds that global CO2 emissions increased by only 0.1% in 2023, suggesting that a plateau may have been reached.","[-0.00712546 -0.02256079  0.01442827 ...  0.03764777 -0.00529184
+ -0.03154204]",0.2964800492085701
+145,145,12 June – A study links the apparent gap in life expectancy between male and female organisms to reproductive cells driving sex-dependent differences in lifespan and suggests a role for vitamin D in improving longevity.,"[-0.00756812 -0.00963331  0.00762531 ... -0.01034501  0.00850222
+ -0.0058429 ]",0.29676793425471293
+233,233,"7 December – A study in The Lancet finds that life expectancy progress in the United States is slowing. Only modest increases are likely by 2050, as the country falls below nearly all high-income and some middle-income countries in the global rankings.","[ 0.00311839 -0.00201529  0.01963394 ...  0.0001024   0.00476162
+ -0.01643559]",0.2982291371527839
+4,4,5 January – An analysis of sugar-sweetened beverage (SSB) taxes concludes scaling them could yield substantial public health benefits.,"[ 0.0073452  -0.00330998 -0.00388786 ...  0.00990841 -0.01151124
+ -0.02601619]",0.29837281091165624
+0,0,"2 January – The Japan Meteorological Agency (JMA) publishes its JRA-55 dataset, confirming 2023 as the warmest year on record globally, at 1.43 °C (2.57 °F) above the 1850–1900 baseline. This is 0.14 °C (0.25 °F) above the previous record set in 2016.","[-0.00305138 -0.00931555 -0.02873653 ...  0.00609021 -0.0188317
+ -0.0141802 ]",0.29838112326542987
+78,78,"13 March – The largest inventory of methane emissions from U.S. oil and gas production finds them to be largely concentrated and around three times the national government inventory estimate. On 28 March, methane emissions from U.S. landfills are quantified, with super-emitting point-sources accounting for almost 90% thereof.","[ 0.0052811  -0.02025181 -0.01462558 ...  0.02032995 -0.00626113
+ -0.04256136]",0.29892053393181583
+85,85,27 March – A study calculates the production costs of diabetes medications such as insulin and ozempic and finds them to be much lower than market prices.,"[ 0.00109927 -0.00835156  0.01795293 ...  0.00183891  0.00615464
+ -0.01976254]",0.2989786631715352
+16,16,"11 January – A review of genetic data from 21 studies with nearly one million participants finds more than 50 new genetic loci and 205 novel genes associated with depression, opening potential targets for drugs to treat depression.","[-0.02566668  0.00833629  0.03924004 ... -0.00203189  0.00050758
+ -0.01501545]",0.2992094178202255
+187,187,"12 September – A policy study finds bans of food waste disposals in landfills, which produce very large amounts of greenhouse gases, in five U.S. states had almost no effect with the exception of the state of Massachusetts. It suggests several makings that may have contributed to that states' success.","[-0.00366196 -0.00501093  0.01959406 ...  0.01212706 -0.00802566
+ -0.04779969]",0.29968346856735606
+91,91,"1 April – An analysis of the European Union's Common Agricultural Policy suggests 82% of the EU's agricultural subsidies are used for animal-based foods which ""are associated with 84% of embodied greenhouse gas emissions of EU food production"".","[ 0.01153608 -0.00782354  0.00981579 ...  0.01268716 -0.01502727
+ -0.01411652]",0.3005387512866987
+14,14,"11 January – A study of the Caatinga region in Brazil finds that its semi-arid biome could lose over 90% of mammal species by 2060, even in a best-case scenario of climate change.","[-0.01039538  0.00200551  0.0166582  ... -0.00079245 -0.01340844
+ -0.01534038]",0.301476456563178
+122,122,"9 May – An analysis of ocean protection for the global conservation target to protect at least 30% of the ocean by 2030 (30 by 30), finds around a quarter of marine protected area (MPA) coverage is not implemented, and one-third is incompatible with the conservation of nature due to the occurrence of highly destructive activities. According to the study, indicators of MPA quality, not only coverage, are needed. On 11 June, a study finds MPAs' effectiveness is not determined by any specific governance approaches or incentives, but the combination of many different integrated incentives.","[-0.00023643 -0.0074481   0.02731189 ...  0.00804865 -0.01537926
+ -0.01869533]",0.3016263234368949
+45,45,2 February – Apple releases the Vision Pro as a virtual reality tool with visionOS.,"[-0.01412552 -0.02014752 -0.01786963 ...  0.01186072 -0.01010649
+  0.01832783]",0.30194448709048904
+223,223,"14 November – A study in the British Journal of Sports Medicine finds that over-40s could live an extra five years if they adopted the exercise routines of the top 25% of the population, while the least physically active could potentially add 11 years to their lifespan.","[ 0.00368569 -0.01255437  0.00787688 ... -0.00268908  0.01480674
+ -0.00937419]",0.30233939635139506
+81,81,"19 March – Researchers with the National Severe Storms Laboratory, Storm Prediction Center, CIWRO, and the University of Oklahoma's School of Meteorology publish a paper where they state, "">20% of supercell tornadoes may be capable of producing EF4–EF5 damage"" and that ""the legacy F-scale wind speed ranges may ultimately provide a better estimate of peak tornado wind speeds at 10–15 m AGL for strong–violent tornadoes and a better damage-based intensity rating for all tornadoes"" and also put the general 0–5 ranking scale in question.","[-0.02895458 -0.01632489 -0.01896433 ... -0.00473778 -0.00990447
+ -0.04323391]",0.3042623809475291
+229,229,20 November – Climate change is found to have increased Atlantic hurricane wind speeds by 18 mph (29 km/h).,"[-0.02925871 -0.00249204  0.00675201 ... -0.00282932 -0.02407961
+ -0.03023059]",0.30626260811578154
+35,35,24 January – A global analysis of groundwater levels reports rapid declines of over 0.5 meters per year are widespread and that declines have accelerated over the past four decades in 30% of the world's regional aquifers. The study also shows cases in which depletion trends have reversed following interventions such as policy changes.,"[-0.0023337   0.00271524  0.03989156 ... -0.02112989 -0.0070718
+  0.01805119]",0.30879994507190156
+225,225,"15 November – Measles cases are reported to have surged across the world, with an estimated 10.3 million infections in 2023, a 20% increase from 2022.","[-0.00964976  0.00614362 -0.0038555  ... -0.02254757  0.00706264
+ -0.01743629]",0.3096452211055679
+68,68,"28 February – A study links ultra-processed foods to 32 negative health impacts, including a higher risk of heart disease, cancer, type 2 diabetes, adverse mental health, and early death.","[-0.00718617  0.0003005   0.01631873 ...  0.00942259  0.00355442
+ -0.01745305]",0.3134903990937272
+2,2,"4 January – A review indicates digital rectal examination (DRE) is an outdated routine medical practice, with a lower cancer detection rate compared to prostate-specific antigen (PSA) testing and no benefit from combining DRE and PSA.","[-0.0274951   0.01102986  0.00585544 ... -0.00386968 -0.00386013
+  0.00926687]",0.3184404766138864
+167,167,"5 August – A study indicates vegetarian and vegan dog diets are healthier than both conventional meat and raw meat diets according to indicators like numbers of veterinary visits and reported veterinary assessment of being unwell, consistent with all related studies published to date.","[-0.00344162 -0.01245537 -0.01342558 ...  0.00106854  0.00727656
+ -0.00732245]",0.3188853818363798
